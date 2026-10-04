@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+runtime/
+server/
+client/
+data/client-*.jar
+data/builds.json
+/screenshots/
+server-first.log
+*.part
