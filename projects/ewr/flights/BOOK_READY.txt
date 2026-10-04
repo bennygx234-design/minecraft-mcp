@@ -1,0 +1,34 @@
+ewr_flights BOOKING INTERFACE - READY (live, reloaded, tested 2026-10-03)
+Pack: server\world\datapacks\ewr_flights   (generator: C:\Users\benny\.claude\jobs\ef42125c\tmp\ewr\flights\gen.py)
+
+Product: "Burj Scenic Flight" - Emirates EK 2026, Burj Khalifa scenic flight, $350.
+
+SELL A TICKET (ticket agents / buttons; run AS the buyer, at the buyer):
+   execute as <buyer> at @s run function ewr_econ:try_buy {price:350, item:"Burj Scenic Flight", then:"ewr_flights:book"}
+
+   ewr_flights:book (no arguments, run as the player):
+   - books the player on the NEXT departure (tag ewr_flt_booked),
+   - teleports them to the boarding point of gate A10: (-14.5, 73, 212.5), Terminal A north airside lounge
+     (upper level), facing the window; the plane is parked outside on stand A10 (centre 24.6, 66, 194.5),
+   - title "Boarding: Burj Scenic Flight, gate A10", subtitle + actionbar countdown to departure.
+   - If the player is already on board it only prints a message (they would still have paid; try_buy
+     cannot be undone, so don't sell twice to someone already flying).
+   When the flight leaves, booked players within 32 blocks of the gate point are seated (max 8 per flight).
+   Anyone farther away stays booked for the next departure. Booking never expires until they fly.
+
+SCHEDULE: a departure every 4 minutes (4800 ticks), even with no passengers. The plane sits at stand A10
+for ~20 s of boarding, pushes back, taxis to 04L, takes off, climbs over the bay, orbits the Burj once at
+y 222 (radius 70), lands on 22R and taxis back to A10 - about 3 min 15 s gate to gate. Passengers are
+released at the gate point (-14.5, 73, 212.5) with a "Welcome back" title.
+
+OTHER FUNCTIONS
+   function ewr_flights:status        (as a player) next departure / status line in chat
+   function ewr_flights:cancel        (as a player) drop your booking (no refund)
+   function ewr_flights:help
+   function ewr_flights:depart_now    (ops) leave now; the 4-minute schedule restarts from that moment
+                                      (refuses if two flights are already in the air)
+   function ewr_flights:reset         (ops) remove all scenic-flight planes, passengers back to the gate,
+                                      a fresh plane appears at the stand
+
+Tags you can test: ewr_flt_booked (waiting at the gate), ewr_flt_pax (in a plane).
+Departures board: text display at the gate (tag ewr_flt_board) with the live countdown.

@@ -1,0 +1,7103 @@
+{
+"tick_before": {
+"avg": 14.8,
+"p50": 14.7,
+"p95": 19.0,
+"p99": 22.2
+},
+"tick_during": [
+{
+"avg": 16.2,
+"p50": 15.9,
+"p95": 21.3,
+"p99": 25.1
+},
+{
+"avg": 16.1,
+"p50": 16.0,
+"p95": 20.8,
+"p99": 26.6
+},
+{
+"avg": 16.0,
+"p50": 15.6,
+"p95": 21.1,
+"p99": 25.0
+}
+],
+"tick_after": {
+"avg": 17.2,
+"p50": 16.9,
+"p95": 22.9,
+"p99": 25.9
+},
+"samples": [
+{
+"t": 0.95,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 1.91,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 2.86,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 3.81,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 4.76,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 5.71,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 6.67,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 7.62,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 8.57,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 9.52,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 10.47,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 11.44,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 12.4,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 13.35,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 14.3,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 15.25,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 16.2,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 17.15,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 18.11,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 19.06,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 20.01,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 20.96,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 21.92,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 22.87,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 23.82,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 24.77,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 25.74,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 26.7,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 27.65,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 28.6,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 29.55,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 30.65,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 31.6,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 32.55,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 33.51,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 34.46,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 35.41,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 36.36,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 37.31,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 38.26,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 39.21,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 40.17,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 41.12,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 42.07,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 43.02,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 44.0,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 44.95,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 45.9,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 46.85,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 47.8,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 48.76,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 49.71,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 50.66,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 51.61,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 52.56,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 53.52,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 54.47,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 55.42,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 56.39,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 57.34,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 58.3,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 59.25,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 60.2,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 61.15,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 62.1,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 63.05,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 64.01,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 64.96,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 65.91,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 66.86,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 67.82,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 68.77,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 69.72,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 70.67,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 71.64,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 72.59,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 73.55,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 74.5,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 75.45,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 76.4,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 77.35,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 78.31,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 79.26,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 80.21,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 81.16,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 82.11,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 83.07,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 84.02,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 84.99,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 85.94,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 86.89,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 87.84,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 88.8,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 89.75,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 90.7,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 91.65,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 92.6,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 93.56,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 94.51,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 95.46,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 96.41,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 97.37,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 98.32,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 99.27,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 100.24,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 101.19,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 102.14,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 103.09,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 104.05,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 105.0,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 105.95,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 106.9,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 107.86,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 108.81,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 109.76,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 110.71,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 111.66,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 112.62,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 113.57,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 114.54,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 115.49,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 116.45,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 117.4,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 118.35,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 119.3,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 120.26,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 121.21,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 122.16,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 123.11,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 124.06,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 125.02,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 125.97,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 126.94,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 127.89,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 128.84,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 129.8,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 130.75,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 131.7,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 132.65,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 133.6,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 134.56,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 135.51,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 136.46,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 137.41,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 138.36,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 139.31,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 140.27,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 141.25,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 142.2,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 143.15,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 144.11,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 145.06,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 146.01,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 146.96,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 147.91,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 148.86,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 149.82,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 150.78,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 151.74,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 152.69,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 153.64,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 154.59,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 155.54,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 156.49,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 157.45,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 158.4,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 159.35,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 160.3,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 161.25,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 162.21,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 163.16,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 164.11,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 165.06,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 166.01,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 166.99,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 167.94,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 168.89,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 169.84,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 170.79,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 171.74,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 172.7,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 173.65,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 174.6,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 175.55,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 176.5,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 177.46,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 178.41,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 179.36,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 180.31,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 181.26,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 182.21,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 183.17,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 184.13,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 185.08,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 186.03,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 186.99,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": true,
+"brain": null
+},
+{
+"t": 187.94,
+"stand": [
+18.741,
+65.08,
+194.5
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+24.741,
+65.85,
+194.5
+],
+"rot": [
+90.0,
+0.0
+],
+"ft": 412
+}
+},
+{
+"t": 188.89,
+"stand": [
+19.32,
+65.08,
+194.5
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+25.32,
+65.85,
+194.5
+],
+"rot": [
+90.0,
+0.0
+],
+"ft": 431
+}
+},
+{
+"t": 189.85,
+"stand": [
+20.474,
+65.08,
+194.5
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+26.474,
+65.85,
+194.5
+],
+"rot": [
+90.0,
+0.0
+],
+"ft": 450
+}
+},
+{
+"t": 190.8,
+"stand": [
+22.171,
+65.08,
+194.5
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+28.171,
+65.85,
+194.5
+],
+"rot": [
+90.0,
+0.0
+],
+"ft": 469
+}
+},
+{
+"t": 191.75,
+"stand": [
+24.393,
+65.08,
+194.5
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+30.393,
+65.85,
+194.5
+],
+"rot": [
+90.0,
+0.0
+],
+"ft": 488
+}
+},
+{
+"t": 192.7,
+"stand": [
+26.863325721740722,
+65.08,
+194.74044444799424
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+32.857,
+65.85,
+194.465
+],
+"rot": [
+87.37,
+0.0
+],
+"ft": 507
+}
+},
+{
+"t": 193.66,
+"stand": [
+29.428413235664365,
+65.08,
+195.36018325352669
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+35.312,
+65.85,
+194.184
+],
+"rot": [
+78.7,
+0.0
+],
+"ft": 526
+}
+},
+{
+"t": 194.61,
+"stand": [
+32.100769717216494,
+65.08,
+195.6872420167923
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+37.682,
+65.85,
+193.485
+],
+"rot": [
+68.47,
+0.0
+],
+"ft": 545
+}
+},
+{
+"t": 195.56,
+"stand": [
+34.78951891994476,
+65.08,
+195.53530540657044
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+39.891,
+65.85,
+192.377
+],
+"rot": [
+58.24,
+0.0
+],
+"ft": 564
+}
+},
+{
+"t": 196.51,
+"stand": [
+37.40779747200012,
+65.08,
+194.90941323757173
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+41.867,
+65.85,
+190.895
+],
+"rot": [
+48.01,
+0.0
+],
+"ft": 583
+}
+},
+{
+"t": 197.48,
+"stand": [
+39.87441263103485,
+65.08,
+193.82714332008362
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+43.549,
+65.85,
+189.084
+],
+"rot": [
+37.77,
+0.0
+],
+"ft": 603
+}
+},
+{
+"t": 198.43,
+"stand": [
+42.2181595249176,
+65.08,
+192.23409138965607
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+44.942,
+65.85,
+186.888
+],
+"rot": [
+27.0,
+0.0
+],
+"ft": 622
+}
+},
+{
+"t": 199.38,
+"stand": [
+44.12810146665573,
+65.08,
+190.3453071603775
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+45.861,
+65.85,
+184.601
+],
+"rot": [
+16.79,
+0.0
+],
+"ft": 641
+}
+},
+{
+"t": 200.34,
+"stand": [
+45.55930692410469,
+65.08,
+188.3365165348053
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.336,
+65.85,
+182.387
+],
+"rot": [
+7.44,
+0.0
+],
+"ft": 660
+}
+},
+{
+"t": 201.29,
+"stand": [
+46.2501327380538,
+65.08,
+186.6337846403122
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.475,
+65.85,
+180.638
+],
+"rot": [
+2.15,
+0.0
+],
+"ft": 679
+}
+},
+{
+"t": 202.24,
+"stand": [
+46.461759925216434,
+65.08,
+185.4278905658722
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.498,
+65.85,
+179.428
+],
+"rot": [
+0.35,
+0.0
+],
+"ft": 698
+}
+},
+{
+"t": 203.19,
+"stand": [
+46.49827427160926,
+65.08,
+184.77699964237212
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.5,
+65.85,
+178.777
+],
+"rot": [
+0.02,
+0.0
+],
+"ft": 717
+}
+},
+{
+"t": 204.14,
+"stand": [
+46.5,
+65.08,
+184.6
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.5,
+65.85,
+178.6
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 736
+}
+},
+{
+"t": 205.1,
+"stand": [
+46.5,
+65.08,
+184.6
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.5,
+65.85,
+178.6
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 755
+}
+},
+{
+"t": 206.05,
+"stand": [
+46.5,
+65.08,
+184.6
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.5,
+65.85,
+178.6
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 774
+}
+},
+{
+"t": 207.0,
+"stand": [
+46.5,
+65.08,
+184.815
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.5,
+65.85,
+178.815
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 793
+}
+},
+{
+"t": 207.95,
+"stand": [
+46.5,
+65.08,
+185.96
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.5,
+65.85,
+179.96
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 812
+}
+},
+{
+"t": 208.9,
+"stand": [
+46.5,
+65.08,
+188.211
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.5,
+65.85,
+182.211
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 831
+}
+},
+{
+"t": 209.86,
+"stand": [
+46.5,
+65.08,
+191.548
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.5,
+65.85,
+185.548
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 850
+}
+},
+{
+"t": 210.81,
+"stand": [
+46.5,
+65.08,
+195.969
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.5,
+65.85,
+189.969
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 869
+}
+},
+{
+"t": 211.76,
+"stand": [
+46.5,
+65.08,
+201.474
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.5,
+65.85,
+195.474
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 888
+}
+},
+{
+"t": 212.71,
+"stand": [
+46.5,
+65.08,
+208.061
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.5,
+65.85,
+202.061
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 907
+}
+},
+{
+"t": 213.68,
+"stand": [
+46.5,
+65.08,
+215.512
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.5,
+65.85,
+209.512
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 927
+}
+},
+{
+"t": 214.64,
+"stand": [
+46.5,
+65.08,
+223.518
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.5,
+65.85,
+217.518
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 946
+}
+},
+{
+"t": 215.59,
+"stand": [
+46.5,
+65.08,
+231.124
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.5,
+65.85,
+225.124
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 965
+}
+},
+{
+"t": 216.54,
+"stand": [
+46.5,
+65.08,
+238.73
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.5,
+65.85,
+232.73
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 984
+}
+},
+{
+"t": 217.49,
+"stand": [
+46.5,
+65.08,
+246.277
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.5,
+65.85,
+240.277
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 1003
+}
+},
+{
+"t": 218.44,
+"stand": [
+46.5,
+65.08,
+253.063
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.5,
+65.85,
+247.063
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 1022
+}
+},
+{
+"t": 219.4,
+"stand": [
+46.5,
+65.08,
+258.599
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.5,
+65.85,
+252.599
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 1041
+}
+},
+{
+"t": 220.35,
+"stand": [
+46.5,
+65.08,
+262.871
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.5,
+65.85,
+256.871
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 1060
+}
+},
+{
+"t": 221.3,
+"stand": [
+47.4187207274437,
+65.08,
+265.90391043281556
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.593,
+65.85,
+259.961
+],
+"rot": [
+-7.91,
+0.0
+],
+"ft": 1079
+}
+},
+{
+"t": 222.25,
+"stand": [
+51.15550312232971,
+65.08,
+267.2236010217667
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+47.567,
+65.85,
+262.415
+],
+"rot": [
+-36.73,
+0.0
+],
+"ft": 1098
+}
+},
+{
+"t": 223.21,
+"stand": [
+55.17287470340729,
+65.08,
+266.35705565071106
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+49.64,
+65.85,
+264.036
+],
+"rot": [
+-67.24,
+0.0
+],
+"ft": 1117
+}
+},
+{
+"t": 224.16,
+"stand": [
+58.24446434593201,
+65.08,
+264.62974571534994
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+52.246,
+65.85,
+264.494
+],
+"rot": [
+-88.7,
+0.0
+],
+"ft": 1136
+}
+},
+{
+"t": 225.11,
+"stand": [
+60.90492404270172,
+65.08,
+264.29847668647767
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+54.908,
+65.85,
+264.49
+],
+"rot": [
+-91.83,
+0.0
+],
+"ft": 1155
+}
+},
+{
+"t": 226.06,
+"stand": [
+62.959356499671934,
+65.08,
+261.483270131588
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+57.501,
+65.85,
+263.974
+],
+"rot": [
+-114.53,
+0.0
+],
+"ft": 1174
+}
+},
+{
+"t": 227.03,
+"stand": [
+62.96184015083313,
+65.08,
+257.3745852622986
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+59.601,
+65.85,
+262.175
+],
+"rot": [
+-146.64,
+0.0
+],
+"ft": 1194
+}
+},
+{
+"t": 227.98,
+"stand": [
+61.10262352800369,
+65.08,
+253.79977265548706
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.431,
+65.85,
+259.762
+],
+"rot": [
+-173.57,
+0.0
+],
+"ft": 1213
+}
+},
+{
+"t": 228.94,
+"stand": [
+60.50172572839074,
+65.08,
+252.0280003576279
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+258.028
+],
+"rot": [
+-179.98,
+0.0
+],
+"ft": 1232
+}
+},
+{
+"t": 229.89,
+"stand": [
+60.5,
+65.08,
+251.5
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+257.5
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1251
+}
+},
+{
+"t": 230.84,
+"stand": [
+60.5,
+65.08,
+251.5
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+257.5
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1270
+}
+},
+{
+"t": 231.8,
+"stand": [
+60.5,
+65.08,
+251.5
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+257.5
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1289
+}
+},
+{
+"t": 232.75,
+"stand": [
+60.5,
+65.08,
+251.5
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+257.5
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1308
+}
+},
+{
+"t": 233.7,
+"stand": [
+60.5,
+65.08,
+250.98700000000002
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+256.987
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1327
+}
+},
+{
+"t": 234.65,
+"stand": [
+60.5,
+65.08,
+249.372
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+255.372
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1346
+}
+},
+{
+"t": 235.6,
+"stand": [
+60.5,
+65.08,
+246.577
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+252.577
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1365
+}
+},
+{
+"t": 236.55,
+"stand": [
+60.5,
+65.08,
+242.615
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+248.615
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1384
+}
+},
+{
+"t": 237.51,
+"stand": [
+60.5,
+65.08,
+237.486
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+243.486
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1403
+}
+},
+{
+"t": 238.46,
+"stand": [
+60.5,
+65.08,
+231.189
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+237.189
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1422
+}
+},
+{
+"t": 239.41,
+"stand": [
+60.5,
+65.08,
+223.725
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+229.725
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1441
+}
+},
+{
+"t": 240.38,
+"stand": [
+60.5,
+65.08,
+215.094
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+220.607
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1461
+}
+},
+{
+"t": 241.34,
+"stand": [
+60.5,
+65.08,
+204.747
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+210.747
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1480
+}
+},
+{
+"t": 242.29,
+"stand": [
+60.5,
+65.08,
+193.72
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+199.72
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1499
+}
+},
+{
+"t": 243.24,
+"stand": [
+60.5,
+65.08,
+181.525
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+187.525
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1518
+}
+},
+{
+"t": 244.19,
+"stand": [
+60.5,
+65.08,
+168.164
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+174.164
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1537
+}
+},
+{
+"t": 245.15,
+"stand": [
+60.5,
+65.08,
+153.635
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+159.635
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1556
+}
+},
+{
+"t": 246.1,
+"stand": [
+60.5,
+65.08,
+137.939
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+143.939
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1575
+}
+},
+{
+"t": 247.05,
+"stand": [
+60.5,
+65.08,
+121.075
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+127.075
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1594
+}
+},
+{
+"t": 248.0,
+"stand": [
+60.5,
+65.08,
+103.045
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+109.045
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1613
+}
+},
+{
+"t": 248.96,
+"stand": [
+60.5,
+65.08,
+83.861
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+89.861
+],
+"rot": [
+-180.0,
+0.0
+],
+"ft": 1632
+}
+},
+{
+"t": 249.91,
+"stand": [
+60.5,
+65.6996383756399,
+63.70066233623028
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+69.748
+],
+"rot": [
+-180.0,
+-5.89
+],
+"ft": 1651
+}
+},
+{
+"t": 250.86,
+"stand": [
+60.5,
+66.09744724142551,
+42.967639778107404
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.948,
+49.015
+],
+"rot": [
+-180.0,
+-8.73
+],
+"ft": 1670
+}
+},
+{
+"t": 251.81,
+"stand": [
+61.54774253491094,
+68.0423916178977,
+21.707737897685483
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+61.1,
+67.536,
+27.719
+],
+"rot": [
+-174.91,
+-12.07
+],
+"ft": 1689
+}
+},
+{
+"t": 252.78,
+"stand": [
+67.87486130263459,
+72.4495423324199,
+0.7959903986260919
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+66.283,
+71.891,
+5.351
+],
+"rot": [
+-156.93,
+-14.93
+],
+"ft": 1709
+}
+},
+{
+"t": 253.74,
+"stand": [
+82.85098624060541,
+77.9661116306853,
+-17.586429781861398
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+78.843,
+77.082,
+-13.143
+],
+"rot": [
+-134.71,
+-15.0
+],
+"ft": 1728
+}
+},
+{
+"t": 254.69,
+"stand": [
+103.40255307414103,
+83.30760076499615,
+-28.299186063645603
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+98.0,
+82.409,
+-25.731
+],
+"rot": [
+-111.91,
+-15.0
+],
+"ft": 1747
+}
+},
+{
+"t": 255.64,
+"stand": [
+126.985940851685,
+88.72603118609554,
+-31.325001325396485
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+121.041,
+87.868,
+-30.608
+],
+"rot": [
+-94.24,
+-15.0
+],
+"ft": 1766
+}
+},
+{
+"t": 256.59,
+"stand": [
+151.07801605325938,
+94.24525726032257,
+-31.220000003651382
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+145.087,
+93.422,
+-31.066
+],
+"rot": [
+-90.0,
+-15.0
+],
+"ft": 1785
+}
+},
+{
+"t": 257.55,
+"stand": [
+175.21289741265772,
+99.80176812458038,
+-31.093000000640178
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+169.218,
+98.993,
+-31.066
+],
+"rot": [
+-90.0,
+-15.0
+],
+"ft": 1804
+}
+},
+{
+"t": 258.5,
+"stand": [
+199.34389741265772,
+105.37276812458038,
+-31.066
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+193.349,
+104.564,
+-31.066
+],
+"rot": [
+-90.0,
+-15.0
+],
+"ft": 1823
+}
+},
+{
+"t": 259.45,
+"stand": [
+223.47489741265773,
+110.94376812458039,
+-31.066
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+217.48,
+110.135,
+-31.066
+],
+"rot": [
+-90.0,
+-15.0
+],
+"ft": 1842
+}
+},
+{
+"t": 260.4,
+"stand": [
+247.60689741265773,
+116.51476812458039,
+-31.066
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+241.612,
+115.706,
+-31.066
+],
+"rot": [
+-90.0,
+-15.0
+],
+"ft": 1861
+}
+},
+{
+"t": 261.36,
+"stand": [
+271.7389774646163,
+122.07272100639344,
+-31.066
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+265.743,
+121.272,
+-31.066
+],
+"rot": [
+-90.0,
+-14.92
+],
+"ft": 1880
+}
+},
+{
+"t": 262.31,
+"stand": [
+295.8787225785256,
+127.41126231515408,
+-31.038999999008887
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+289.874,
+126.679,
+-31.066
+],
+"rot": [
+-90.0,
+-14.27
+],
+"ft": 1899
+}
+},
+{
+"t": 263.26,
+"stand": [
+320.0079689510628,
+132.4109096080692,
+-31.693274726580874
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+313.998,
+131.748,
+-31.51
+],
+"rot": [
+-93.15,
+-13.48
+],
+"ft": 1918
+}
+},
+{
+"t": 264.23,
+"stand": [
+343.8274871036811,
+137.2104825207522,
+-35.62544176674285
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+339.144,
+136.801,
+-34.863
+],
+"rot": [
+-103.19,
+-13.15
+],
+"ft": 1938
+}
+},
+{
+"t": 265.19,
+"stand": [
+367.1333708295861,
+142.23893225947472,
+-45.816997219759706
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+361.691,
+141.559,
+-43.266
+],
+"rot": [
+-118.1,
+-13.15
+],
+"ft": 1957
+}
+},
+{
+"t": 266.14,
+"stand": [
+385.7733831425747,
+147.0076440265807,
+-61.24326047638467
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+381.194,
+146.317,
+-57.352
+],
+"rot": [
+-133.58,
+-13.15
+],
+"ft": 1976
+}
+},
+{
+"t": 267.1,
+"stand": [
+399.60359233796765,
+151.76564403016917,
+-81.10544310150786
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+396.229,
+151.075,
+-76.133
+],
+"rot": [
+-149.06,
+-13.15
+],
+"ft": 1995
+}
+},
+{
+"t": 268.05,
+"stand": [
+407.6319742224949,
+156.5236440280675,
+-103.93787371684824
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+405.707,
+155.833,
+-98.245
+],
+"rot": [
+-164.54,
+-13.15
+],
+"ft": 2014
+}
+},
+{
+"t": 269.0,
+"stand": [
+409.27469894109436,
+161.28164402771145,
+-128.08528542308517
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+408.939,
+160.591,
+-122.085
+],
+"rot": [
+179.98,
+-13.15
+],
+"ft": 2033
+}
+},
+{
+"t": 269.95,
+"stand": [
+404.41206007661754,
+166.0396440269243,
+-151.79522183645446
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+405.69,
+165.349,
+-145.923
+],
+"rot": [
+164.5,
+-13.15
+],
+"ft": 2052
+}
+},
+{
+"t": 270.91,
+"stand": [
+393.39813594793276,
+170.79864402648155,
+-173.34712713471814
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+396.197,
+170.108,
+-168.029
+],
+"rot": [
+149.02,
+-13.15
+],
+"ft": 2071
+}
+},
+{
+"t": 271.86,
+"stand": [
+377.03026973496003,
+175.5566440296188,
+-191.1772016255915
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+381.147,
+174.866,
+-186.799
+],
+"rot": [
+133.54,
+-13.15
+],
+"ft": 2090
+}
+},
+{
+"t": 272.81,
+"stand": [
+356.48510576093594,
+180.30393226125688,
+-203.97075187409945
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+361.635,
+179.624,
+-200.871
+],
+"rot": [
+118.06,
+-13.15
+],
+"ft": 2109
+}
+},
+{
+"t": 273.78,
+"stand": [
+333.2921011372285,
+185.04148252134334,
+-210.88142104748223
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+337.844,
+184.632,
+-209.54
+],
+"rot": [
+102.49,
+-13.15
+],
+"ft": 2129
+}
+},
+{
+"t": 274.73,
+"stand": [
+307.9410888022872,
+190.015373420194,
+-213.06177840637775
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+313.94,
+189.389,
+-212.6
+],
+"rot": [
+93.13,
+-13.15
+],
+"ft": 2148
+}
+},
+{
+"t": 275.69,
+"stand": [
+283.96133259803054,
+194.7306616523266,
+-213.07499999928532
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+289.979,
+194.115,
+-213.041
+],
+"rot": [
+90.0,
+-13.15
+],
+"ft": 2167
+}
+},
+{
+"t": 276.64,
+"stand": [
+260.44010517942905,
+199.36768785524367,
+-213.041
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+266.458,
+198.753,
+-213.041
+],
+"rot": [
+90.0,
+-13.15
+],
+"ft": 2186
+}
+},
+{
+"t": 277.59,
+"stand": [
+237.42410517942906,
+203.90568785524368,
+-213.041
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+243.442,
+203.291,
+-213.041
+],
+"rot": [
+90.0,
+-13.15
+],
+"ft": 2205
+}
+},
+{
+"t": 278.54,
+"stand": [
+214.91210517942906,
+208.34468785524368,
+-213.06799999943246
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+220.93,
+207.73,
+-213.041
+],
+"rot": [
+90.0,
+-13.15
+],
+"ft": 2224
+}
+},
+{
+"t": 279.49,
+"stand": [
+192.8610814809686,
+212.62392017768704,
+-212.85014597475507
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+198.882,
+212.044,
+-212.917
+],
+"rot": [
+88.66,
+-12.78
+],
+"ft": 2243
+}
+},
+{
+"t": 280.45,
+"stand": [
+171.08452698642782,
+216.31239947057222,
+-210.7473626124582
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+177.087,
+215.9,
+-211.374
+],
+"rot": [
+82.4,
+-11.04
+],
+"ft": 2262
+}
+},
+{
+"t": 281.4,
+"stand": [
+150.02584158878508,
+219.0541804012801,
+-204.78528309437004
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+155.819,
+218.893,
+-206.519
+],
+"rot": [
+71.03,
+-8.47
+],
+"ft": 2281
+}
+},
+{
+"t": 282.35,
+"stand": [
+130.99953877587936,
+220.71491202351046,
+-193.92498981821677
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+136.224,
+220.831,
+-196.972
+],
+"rot": [
+57.02,
+-5.69
+],
+"ft": 2300
+}
+},
+{
+"t": 283.3,
+"stand": [
+115.32382624474869,
+221.41432690314545,
+-178.6220519433786
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+119.599,
+221.769,
+-182.887
+],
+"rot": [
+42.16,
+-3.35
+],
+"ft": 2319
+}
+},
+{
+"t": 284.25,
+"stand": [
+104.51832173015107,
+221.5168524907141,
+-159.5506394078828
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+107.414,
+221.997,
+-164.84
+],
+"rot": [
+25.61,
+-2.08
+],
+"ft": 2338
+}
+},
+{
+"t": 285.21,
+"stand": [
+99.99559006756203,
+221.51776720922197,
+-138.0789786677258
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+101.147,
+222.0,
+-143.998
+],
+"rot": [
+7.8,
+-2.0
+],
+"ft": 2357
+}
+},
+{
+"t": 286.16,
+"stand": [
+102.30408540926304,
+221.51776720916288,
+-116.25341905568976
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+101.582,
+222.0,
+-122.24
+],
+"rot": [
+-10.09,
+-2.0
+],
+"ft": 2376
+}
+},
+{
+"t": 287.13,
+"stand": [
+111.20326032347461,
+221.51776720929863,
+-96.19126989026724
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+109.226,
+222.0,
+-100.656
+],
+"rot": [
+-28.91,
+-2.0
+],
+"ft": 2396
+}
+},
+{
+"t": 288.09,
+"stand": [
+126.73850611473219,
+221.51776720894375,
+-79.10542621327069
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+122.581,
+222.0,
+-83.473
+],
+"rot": [
+-46.8,
+-2.0
+],
+"ft": 2415
+}
+},
+{
+"t": 289.04,
+"stand": [
+145.8656700257155,
+221.51776720928314,
+-68.34185204736225
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+140.568,
+222.0,
+-71.222
+],
+"rot": [
+-64.68,
+-2.0
+],
+"ft": 2434
+}
+},
+{
+"t": 289.99,
+"stand": [
+167.3742954605254,
+221.5177672094268,
+-63.97463461549559
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+161.448,
+222.0,
+-65.088
+],
+"rot": [
+-82.57,
+-2.0
+],
+"ft": 2453
+}
+},
+{
+"t": 290.95,
+"stand": [
+189.18471438186032,
+221.51776720939466,
+-66.42253122963791
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+183.203,
+222.0,
+-65.662
+],
+"rot": [
+-100.46,
+-2.0
+],
+"ft": 2472
+}
+},
+{
+"t": 291.9,
+"stand": [
+209.18912219623996,
+221.5177672092833,
+-75.45039691266588
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+203.73,
+222.0,
+-72.89
+],
+"rot": [
+-118.34,
+-2.0
+],
+"ft": 2491
+}
+},
+{
+"t": 292.85,
+"stand": [
+225.4547875118647,
+221.51776720935908,
+-90.18635260356683
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+221.046,
+222.0,
+-86.073
+],
+"rot": [
+-136.23,
+-2.0
+],
+"ft": 2510
+}
+},
+{
+"t": 293.8,
+"stand": [
+236.40781228723452,
+221.5177672093707,
+-109.20543752306662
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+233.475,
+222.0,
+-103.937
+],
+"rot": [
+-154.11,
+-2.0
+],
+"ft": 2529
+}
+},
+{
+"t": 294.76,
+"stand": [
+240.99039491503854,
+221.51776720932122,
+-130.6698193245503
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+239.818,
+222.0,
+-124.755
+],
+"rot": [
+-172.0,
+-2.0
+],
+"ft": 2548
+}
+},
+{
+"t": 295.71,
+"stand": [
+238.76072976441418,
+221.51776720920137,
+-152.50317216088646
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+239.461,
+222.0,
+-146.514
+],
+"rot": [
+170.12,
+-2.0
+],
+"ft": 2567
+}
+},
+{
+"t": 296.66,
+"stand": [
+229.9326539036064,
+221.51776720902208,
+-172.5974134344823
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+232.439,
+222.0,
+-167.113
+],
+"rot": [
+152.23,
+-2.0
+],
+"ft": 2586
+}
+},
+{
+"t": 297.63,
+"stand": [
+214.45759255608263,
+221.5177672090576,
+-189.73789737068657
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+218.6,
+222.0,
+-185.356
+],
+"rot": [
+133.4,
+-2.0
+],
+"ft": 2606
+}
+},
+{
+"t": 298.59,
+"stand": [
+195.36930218334157,
+221.51776720904041,
+-200.5694155503893
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+200.657,
+222.0,
+-197.671
+],
+"rot": [
+115.52,
+-2.0
+],
+"ft": 2625
+}
+},
+{
+"t": 299.54,
+"stand": [
+173.87669141959384,
+221.51776720924204,
+-205.01438090453914
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+179.799,
+222.0,
+-203.88
+],
+"rot": [
+97.63,
+-2.0
+],
+"ft": 2644
+}
+},
+{
+"t": 300.49,
+"stand": [
+152.05744955181598,
+221.51776720942962,
+-202.64427265625937
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+158.042,
+222.0,
+-203.383
+],
+"rot": [
+79.75,
+-2.0
+],
+"ft": 2663
+}
+},
+{
+"t": 301.44,
+"stand": [
+132.0207992180907,
+221.5177672090217,
+-193.68647665009087
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+137.489,
+222.0,
+-196.228
+],
+"rot": [
+61.86,
+-2.0
+],
+"ft": 2682
+}
+},
+{
+"t": 302.39,
+"stand": [
+115.70323197512954,
+221.51776720902228,
+-179.00833765511118
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+120.127,
+222.0,
+-183.106
+],
+"rot": [
+43.98,
+-2.0
+],
+"ft": 2701
+}
+},
+{
+"t": 303.35,
+"stand": [
+104.70529079932366,
+221.5067739066288,
+-160.01712618352042
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+107.634,
+222.0,
+-165.287
+],
+"rot": [
+26.09,
+-2.0
+],
+"ft": 2720
+}
+},
+{
+"t": 304.3,
+"stand": [
+99.77092364879483,
+221.40969695712528,
+-138.64120735197085
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+101.06,
+221.968,
+-144.525
+],
+"rot": [
+10.04,
+-1.64
+],
+"ft": 2739
+}
+},
+{
+"t": 305.25,
+"stand": [
+98.85856810034878,
+220.84401523470441,
+-116.76792978610796
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+99.127,
+221.582,
+-122.766
+],
+"rot": [
+1.42,
+-0.22
+],
+"ft": 2758
+}
+},
+{
+"t": 306.2,
+"stand": [
+98.99900005158332,
+219.62023077642917,
+-94.68791894251481
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+99.019,
+220.551,
+-100.665
+],
+"rot": [
+0.0,
+1.54
+],
+"ft": 2777
+}
+},
+{
+"t": 307.16,
+"stand": [
+99.04599987472484,
+217.81723478615285,
+-72.0710940207988
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+99.019,
+218.875,
+-78.027
+],
+"rot": [
+0.0,
+2.76
+],
+"ft": 2796
+}
+},
+{
+"t": 308.11,
+"stand": [
+98.84727908298689,
+215.8396608067758,
+-48.8565390615468
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+98.883,
+216.899,
+-54.812
+],
+"rot": [
+1.57,
+2.88
+],
+"ft": 2815
+}
+},
+{
+"t": 309.06,
+"stand": [
+95.7612103953569,
+213.83962154592612,
+-25.25227121467759
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+96.621,
+214.868,
+-31.151
+],
+"rot": [
+10.71,
+2.88
+],
+"ft": 2834
+}
+},
+{
+"t": 310.04,
+"stand": [
+85.73882366129659,
+211.69556075469487,
+-1.5787189249944404
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+88.239,
+212.676,
+-6.999
+],
+"rot": [
+28.23,
+2.88
+],
+"ft": 2854
+}
+},
+{
+"t": 310.99,
+"stand": [
+69.21845462810097,
+209.5825442918673,
+17.169676121373044
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+73.248,
+210.55,
+12.763
+],
+"rot": [
+46.14,
+2.88
+],
+"ft": 2873
+}
+},
+{
+"t": 311.94,
+"stand": [
+47.55846869415127,
+207.44154429029604,
+29.97520998170772
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+52.754,
+208.409,
+27.032
+],
+"rot": [
+64.17,
+2.88
+],
+"ft": 2892
+}
+},
+{
+"t": 312.9,
+"stand": [
+22.992545618320232,
+205.300544290663,
+35.4481737838718
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+28.844,
+206.268,
+34.258
+],
+"rot": [
+82.2,
+2.88
+],
+"ft": 2911
+}
+},
+{
+"t": 313.85,
+"stand": [
+-2.0603792592816816,
+203.15954429043154,
+33.04562844199704
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+3.872,
+204.127,
+33.726
+],
+"rot": [
+100.24,
+2.88
+],
+"ft": 2930
+}
+},
+{
+"t": 314.8,
+"stand": [
+-25.139544320189984,
+201.01854429076488,
+23.00501454720985
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-19.709,
+201.986,
+25.488
+],
+"rot": [
+118.27,
+2.88
+],
+"ft": 2949
+}
+},
+{
+"t": 315.75,
+"stand": [
+-43.97568021686021,
+198.87754429050543,
+6.313375365508719
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-39.581,
+199.845,
+10.356
+],
+"rot": [
+136.31,
+2.88
+],
+"ft": 2968
+}
+},
+{
+"t": 316.71,
+"stand": [
+-56.6968399599229,
+196.72356075480252,
+-15.40006018396865
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-53.791,
+197.704,
+-10.186
+],
+"rot": [
+154.34,
+2.88
+],
+"ft": 2987
+}
+},
+{
+"t": 317.66,
+"stand": [
+-62.282890900885626,
+194.5426101475374,
+-39.93232968265609
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-61.067,
+195.562,
+-34.095
+],
+"rot": [
+170.89,
+2.88
+],
+"ft": 3006
+}
+},
+{
+"t": 318.61,
+"stand": [
+-63.139328819308815,
+192.36565574085927,
+-65.03867614112622
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-62.902,
+193.421,
+-59.087
+],
+"rot": [
+179.2,
+2.88
+],
+"ft": 3025
+}
+},
+{
+"t": 319.58,
+"stand": [
+-62.97099990348918,
+190.0966747380495,
+-91.4416605034396
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-62.951,
+191.167,
+-85.488
+],
+"rot": [
+-180.0,
+2.88
+],
+"ft": 3045
+}
+},
+{
+"t": 320.53,
+"stand": [
+-62.951,
+187.9556747380495,
+-116.52266050343961
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-62.951,
+189.026,
+-110.569
+],
+"rot": [
+-180.0,
+2.88
+],
+"ft": 3064
+}
+},
+{
+"t": 321.49,
+"stand": [
+-62.951,
+185.8146747380495,
+-141.6036605034396
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-62.951,
+186.885,
+-135.65
+],
+"rot": [
+-180.0,
+2.88
+],
+"ft": 3083
+}
+},
+{
+"t": 322.44,
+"stand": [
+-62.951,
+183.6776747380495,
+-166.63966050343961
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-62.951,
+184.748,
+-160.686
+],
+"rot": [
+-180.0,
+2.88
+],
+"ft": 3102
+}
+},
+{
+"t": 323.39,
+"stand": [
+-62.951,
+181.5676747380495,
+-191.3536605034396
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-62.951,
+182.638,
+-185.4
+],
+"rot": [
+-180.0,
+2.88
+],
+"ft": 3121
+}
+},
+{
+"t": 324.34,
+"stand": [
+-62.951,
+179.4996747380495,
+-215.5716605034396
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-62.951,
+180.57,
+-209.618
+],
+"rot": [
+-180.0,
+2.88
+],
+"ft": 3140
+}
+},
+{
+"t": 325.3,
+"stand": [
+-62.951,
+177.4756747380495,
+-239.28366050343962
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-62.951,
+178.546,
+-233.33
+],
+"rot": [
+-180.0,
+2.88
+],
+"ft": 3159
+}
+},
+{
+"t": 326.25,
+"stand": [
+-62.951,
+175.4946747380495,
+-262.4896605034396
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-62.951,
+176.565,
+-256.536
+],
+"rot": [
+-180.0,
+2.88
+],
+"ft": 3178
+}
+},
+{
+"t": 327.2,
+"stand": [
+-62.951,
+173.5566747380495,
+-285.19066050343963
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-62.951,
+174.627,
+-279.237
+],
+"rot": [
+-180.0,
+2.88
+],
+"ft": 3197
+}
+},
+{
+"t": 328.15,
+"stand": [
+-62.951,
+171.6616747380495,
+-307.3866605034396
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-62.951,
+172.732,
+-301.433
+],
+"rot": [
+-180.0,
+2.88
+],
+"ft": 3216
+}
+},
+{
+"t": 329.11,
+"stand": [
+-62.99742896830186,
+169.81167347157,
+-329.0767153219796
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-62.951,
+170.881,
+-323.123
+],
+"rot": [
+-179.99,
+2.88
+],
+"ft": 3235
+}
+},
+{
+"t": 330.06,
+"stand": [
+-62.01371393404483,
+168.0216494084895,
+-350.24151571769613
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-62.334,
+169.072,
+-344.293
+],
+"rot": [
+-175.25,
+2.88
+],
+"ft": 3254
+}
+},
+{
+"t": 331.03,
+"stand": [
+-57.03546630936849,
+166.292603815334,
+-370.3452462645299
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-58.234,
+167.215,
+-365.603
+],
+"rot": [
+-161.46,
+2.88
+],
+"ft": 3274
+}
+},
+{
+"t": 331.99,
+"stand": [
+-45.490390482541144,
+164.4915898844484,
+-388.25400053818146
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-48.863,
+165.495,
+-383.334
+],
+"rot": [
+-142.56,
+2.88
+],
+"ft": 3293
+}
+},
+{
+"t": 332.94,
+"stand": [
+-29.828201715025536,
+162.8145898843728,
+-400.28890383221636
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-34.604,
+163.818,
+-396.715
+],
+"rot": [
+-123.8,
+2.88
+],
+"ft": 3312
+}
+},
+{
+"t": 333.89,
+"stand": [
+-11.581751375025725,
+161.1765898839912,
+-406.57055359734176
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+-17.239,
+162.18,
+-404.679
+],
+"rot": [
+-105.48,
+2.88
+],
+"ft": 3331
+}
+},
+{
+"t": 334.84,
+"stand": [
+7.537144790939367,
+159.55358988388986,
+-406.82619331534903
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+1.572,
+160.557,
+-406.791
+],
+"rot": [
+-87.33,
+2.88
+],
+"ft": 3350
+}
+},
+{
+"t": 335.8,
+"stand": [
+25.777325991495854,
+157.93158988375947,
+-401.11432314266017
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+20.098,
+158.935,
+-402.939
+],
+"rot": [
+-69.18,
+2.88
+],
+"ft": 3369
+}
+},
+{
+"t": 336.75,
+"stand": [
+41.33339758282454,
+156.30887162841233,
+-390.0068598083051
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+36.503,
+157.302,
+-393.51
+],
+"rot": [
+-51.04,
+2.78
+],
+"ft": 3388
+}
+},
+{
+"t": 337.7,
+"stand": [
+52.638312517361825,
+154.55304915080262,
+-374.58704927265535
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+49.156,
+155.504,
+-379.441
+],
+"rot": [
+-32.89,
+2.27
+],
+"ft": 3407
+}
+},
+{
+"t": 338.65,
+"stand": [
+58.695996266290415,
+152.45781376209095,
+-356.45401071982207
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+56.844,
+153.338,
+-362.145
+],
+"rot": [
+-15.62,
+1.46
+],
+"ft": 3426
+}
+},
+{
+"t": 339.6,
+"stand": [
+60.544812977903185,
+149.87110848620506,
+-337.465883616913
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+59.952,
+150.682,
+-343.431
+],
+"rot": [
+-4.39,
+0.51
+],
+"ft": 3445
+}
+},
+{
+"t": 340.56,
+"stand": [
+60.53233310903968,
+146.77643550992013,
+-318.43785954604647
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.499,
+147.505,
+-324.443
+],
+"rot": [
+-0.06,
+-0.4
+],
+"ft": 3464
+}
+},
+{
+"t": 341.51,
+"stand": [
+60.5,
+143.21291272869706,
+-299.4281510958709
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+143.866,
+-305.442
+],
+"rot": [
+0.0,
+-1.12
+],
+"ft": 3483
+}
+},
+{
+"t": 342.48,
+"stand": [
+60.5,
+139.30313311842085,
+-280.4230211542584
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+139.705,
+-285.441
+],
+"rot": [
+0.0,
+-1.49
+],
+"ft": 3503
+}
+},
+{
+"t": 343.43,
+"stand": [
+60.5,
+135.05328707134723,
+-260.42090359912817
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+135.666,
+-266.439
+],
+"rot": [
+0.0,
+-1.5
+],
+"ft": 3522
+}
+},
+{
+"t": 344.39,
+"stand": [
+60.5,
+131.01428707134724,
+-241.4199035991281
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+131.627,
+-247.438
+],
+"rot": [
+0.0,
+-1.5
+],
+"ft": 3541
+}
+},
+{
+"t": 345.34,
+"stand": [
+60.5,
+126.97628707134723,
+-222.41890359912813
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+127.589,
+-228.437
+],
+"rot": [
+0.0,
+-1.5
+],
+"ft": 3560
+}
+},
+{
+"t": 346.29,
+"stand": [
+60.5,
+122.93728707134723,
+-203.41790359912812
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+123.55,
+-209.436
+],
+"rot": [
+0.0,
+-1.5
+],
+"ft": 3579
+}
+},
+{
+"t": 347.24,
+"stand": [
+60.5,
+118.89828707134723,
+-184.41690359912812
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+119.511,
+-190.435
+],
+"rot": [
+0.0,
+-1.5
+],
+"ft": 3598
+}
+},
+{
+"t": 348.2,
+"stand": [
+60.5,
+114.85928707134723,
+-165.41590359912811
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+115.472,
+-171.434
+],
+"rot": [
+0.0,
+-1.5
+],
+"ft": 3617
+}
+},
+{
+"t": 349.15,
+"stand": [
+60.5,
+110.82028707134724,
+-146.4149035991281
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+111.433,
+-152.433
+],
+"rot": [
+0.0,
+-1.5
+],
+"ft": 3636
+}
+},
+{
+"t": 350.1,
+"stand": [
+60.5,
+106.78228707134723,
+-127.41390359912812
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+107.395,
+-133.432
+],
+"rot": [
+0.0,
+-1.5
+],
+"ft": 3655
+}
+},
+{
+"t": 351.05,
+"stand": [
+60.5,
+102.74328707134723,
+-108.41290359912813
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+103.356,
+-114.431
+],
+"rot": [
+0.0,
+-1.5
+],
+"ft": 3674
+}
+},
+{
+"t": 352.01,
+"stand": [
+60.5,
+98.70428707134722,
+-89.41190359912814
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+99.317,
+-95.43
+],
+"rot": [
+0.0,
+-1.5
+],
+"ft": 3693
+}
+},
+{
+"t": 352.96,
+"stand": [
+60.5,
+94.66528707134724,
+-70.41090359912813
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+95.278,
+-76.429
+],
+"rot": [
+0.0,
+-1.5
+],
+"ft": 3712
+}
+},
+{
+"t": 353.93,
+"stand": [
+60.5,
+90.41628707134723,
+-50.42190359912813
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+91.029,
+-56.44
+],
+"rot": [
+0.0,
+-1.5
+],
+"ft": 3732
+}
+},
+{
+"t": 354.88,
+"stand": [
+60.5,
+86.42428707134724,
+-31.637903599128126
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+87.037,
+-37.656
+],
+"rot": [
+0.0,
+-1.5
+],
+"ft": 3751
+}
+},
+{
+"t": 355.83,
+"stand": [
+60.5,
+82.53128707134724,
+-13.321903599128127
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+83.144,
+-19.34
+],
+"rot": [
+0.0,
+-1.5
+],
+"ft": 3770
+}
+},
+{
+"t": 356.79,
+"stand": [
+60.5,
+78.74528707134724,
+4.488096400871872
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+79.358,
+-1.53
+],
+"rot": [
+0.0,
+-1.5
+],
+"ft": 3789
+}
+},
+{
+"t": 357.74,
+"stand": [
+60.5,
+75.06028707134723,
+21.824096400871873
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+75.673,
+15.806
+],
+"rot": [
+0.0,
+-1.5
+],
+"ft": 3808
+}
+},
+{
+"t": 358.69,
+"stand": [
+60.5,
+71.42228707134723,
+38.940096400871866
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+72.035,
+32.922
+],
+"rot": [
+0.0,
+-1.5
+],
+"ft": 3827
+}
+},
+{
+"t": 359.64,
+"stand": [
+60.5,
+67.84825671941041,
+56.04368359736353
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+68.435,
+50.023
+],
+"rot": [
+0.0,
+-1.75
+],
+"ft": 3846
+}
+},
+{
+"t": 360.59,
+"stand": [
+60.5,
+65.81015459644796,
+73.16170522624253
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+66.183,
+67.124
+],
+"rot": [
+0.0,
+-3.78
+],
+"ft": 3865
+}
+},
+{
+"t": 361.55,
+"stand": [
+60.5,
+65.50668068945407,
+90.2644561638683
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+84.225
+],
+"rot": [
+0.0,
+-4.06
+],
+"ft": 3884
+}
+},
+{
+"t": 362.5,
+"stand": [
+60.5,
+65.16463435292243,
+107.32825578796863
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+101.318
+],
+"rot": [
+0.0,
+-0.81
+],
+"ft": 3903
+}
+},
+{
+"t": 363.45,
+"stand": [
+60.5,
+65.08,
+124.002
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+118.002
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 3922
+}
+},
+{
+"t": 364.41,
+"stand": [
+60.5,
+65.08,
+139.087
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+133.087
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 3941
+}
+},
+{
+"t": 365.36,
+"stand": [
+60.5,
+65.08,
+152.193
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+146.193
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 3960
+}
+},
+{
+"t": 366.33,
+"stand": [
+60.5,
+65.08,
+163.844
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+157.844
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 3980
+}
+},
+{
+"t": 367.28,
+"stand": [
+60.5,
+65.08,
+172.875
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+166.875
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 3999
+}
+},
+{
+"t": 368.23,
+"stand": [
+60.5,
+65.08,
+179.92
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+173.92
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 4018
+}
+},
+{
+"t": 369.19,
+"stand": [
+60.5,
+65.08,
+185.029
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.5,
+65.85,
+179.029
+],
+"rot": [
+0.0,
+0.0
+],
+"ft": 4037
+}
+},
+{
+"t": 370.14,
+"stand": [
+60.28515235054493,
+65.08,
+188.9657370033264
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+60.483,
+65.85,
+182.969
+],
+"rot": [
+1.89,
+0.0
+],
+"ft": 4056
+}
+},
+{
+"t": 371.09,
+"stand": [
+57.63646570491791,
+65.08,
+192.28230573272705
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+59.813,
+65.85,
+186.691
+],
+"rot": [
+21.27,
+0.0
+],
+"ft": 4075
+}
+},
+{
+"t": 372.04,
+"stand": [
+53.46173306751251,
+65.08,
+194.04974571800233
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+57.738,
+65.85,
+189.841
+],
+"rot": [
+45.46,
+0.0
+],
+"ft": 4094
+}
+},
+{
+"t": 373.0,
+"stand": [
+48.92956405162811,
+65.08,
+193.95173715591432
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+54.555,
+65.85,
+191.865
+],
+"rot": [
+69.65,
+0.0
+],
+"ft": 4113
+}
+},
+{
+"t": 373.95,
+"stand": [
+44.82720835208893,
+65.08,
+192.64977374327182
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+50.825,
+65.85,
+192.487
+],
+"rot": [
+88.45,
+0.0
+],
+"ft": 4132
+}
+},
+{
+"t": 374.9,
+"stand": [
+40.955,
+65.08,
+192.5
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+46.955,
+65.85,
+192.5
+],
+"rot": [
+90.0,
+0.0
+],
+"ft": 4151
+}
+},
+{
+"t": 375.85,
+"stand": [
+36.96948780441284,
+65.08,
+192.5805052177012
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+42.969,
+65.85,
+192.504
+],
+"rot": [
+89.27,
+0.0
+],
+"ft": 4170
+}
+},
+{
+"t": 376.81,
+"stand": [
+33.84122426319122,
+65.08,
+193.99020718812943
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+39.723,
+65.85,
+192.805
+],
+"rot": [
+78.61,
+0.0
+],
+"ft": 4189
+}
+},
+{
+"t": 377.78,
+"stand": [
+31.02919260025024,
+65.08,
+195.28330869817734
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+36.631,
+65.85,
+193.634
+],
+"rot": [
+73.69,
+0.0
+],
+"ft": 4209
+}
+},
+{
+"t": 378.73,
+"stand": [
+27.736526298522946,
+65.08,
+195.18704642534257
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+33.675,
+65.85,
+194.33
+],
+"rot": [
+81.79,
+0.0
+],
+"ft": 4228
+}
+},
+{
+"t": 379.69,
+"stand": [
+24.64202145767212,
+65.08,
+194.51610677829012
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+30.642,
+65.85,
+194.5
+],
+"rot": [
+89.85,
+0.0
+],
+"ft": 4247
+}
+},
+{
+"t": 380.64,
+"stand": [
+21.632,
+65.08,
+194.5
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+27.632,
+65.85,
+194.5
+],
+"rot": [
+90.0,
+0.0
+],
+"ft": 4266
+}
+},
+{
+"t": 381.59,
+"stand": [
+19.295,
+65.08,
+194.5
+],
+"onv": true,
+"pax": true,
+"booked": false,
+"brain": {
+"pos": [
+25.295,
+65.85,
+194.5
+],
+"rot": [
+90.0,
+0.0
+],
+"ft": 4285
+}
+},
+{
+"t": 382.54,
+"stand": [
+-14.5,
+73.0,
+212.5
+],
+"onv": false,
+"pax": false,
+"booked": false,
+"brain": null
+}
+],
+"probes": 696,
+"probes_bad": [],
+"max_dev": 0.4000000000000057,
+"seated": 204,
+"n": 204,
+"released": true,
+"final": [
+-14.5,
+73.0,
+212.5
+]
+}

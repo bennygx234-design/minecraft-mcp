@@ -1,0 +1,23 @@
+[
+ {"id":"c_ci_united_1","area":"termC","role":"checkin","label":"United Premier Access","airline":"united","x":-28,"y":70,"z":124,"yaw":68,"note":"behind curved check-in desk (smooth_quartz W), bag belt E; premier sign on desk"},
+ {"id":"c_ci_united_2","area":"termC","role":"checkin","label":"United Check-in","airline":"united","x":-30,"y":70,"z":117,"yaw":79,"note":"behind desk (W), bag belt E; potted bamboo S is decor"},
+ {"id":"c_ci_united_3","area":"termC","role":"checkin","label":"United Check-in / Bag drop","airline":"united","x":-31,"y":70,"z":110,"yaw":90,"note":"centre of counter arc, desk W with UNITED sign, belt E"},
+ {"id":"c_ci_united_4","area":"termC","role":"checkin","label":"United Check-in","airline":"united","x":-30,"y":70,"z":103,"yaw":101,"note":"behind desk (W), belt S/E"},
+ {"id":"c_ci_united_5","area":"termC","role":"checkin","label":"United Check-in / Kiosks","airline":"united","x":-28,"y":70,"z":96,"yaw":112,"note":"behind desk (W) with kiosk sign, belt E"},
+ {"id":"c_ci_united_6","area":"termC","role":"checkin","label":"United Check-in","airline":"united","x":-25,"y":70,"z":89,"yaw":123,"note":"north end of arc, desk W and N"},
+ {"id":"c_tsa_1","area":"termC","role":"tsa","label":"TSA Checkpoint lane 2","airline":null,"x":-22,"y":70,"z":107,"yaw":45,"note":"airside of scanner frame (-23,107); lane exit at (-22,108)"},
+ {"id":"c_tsa_2","area":"termC","role":"tsa","label":"TSA Checkpoint lane 3","airline":null,"x":-22,"y":70,"z":113,"yaw":135,"note":"airside of scanner frame (-23,113); lane exit at (-22,112)"},
+ {"id":"c_tsa_3","area":"termC","role":"tsa","label":"TSA X-ray","airline":null,"x":-24,"y":70,"z":109,"yaw":0,"note":"landside, x-ray machine directly S (-24,110); passengers load from z=111"},
+ {"id":"c_gate_c1","area":"termC","role":"gate","label":"Gate C71","airline":"united","x":-2,"y":70,"z":130,"yaw":120,"note":"behind C1 tip gate desk (quartz W, sign on top); faces back up concourse"},
+ {"id":"c_gate_c2","area":"termC","role":"gate","label":"Gate C101","airline":"united","x":4,"y":70,"z":110,"yaw":90,"note":"behind C2 tip gate desk (quartz W, sign on top); aisle x=2"},
+ {"id":"c_gate_c3","area":"termC","role":"gate","label":"Gate C120","airline":"united","x":-2,"y":70,"z":90,"yaw":60,"note":"behind C3 tip gate desk (quartz W); jet bridge row z=87 avoided"},
+ {"id":"c_shop_hudson","area":"termC","role":"shop","label":"Hudson News","airline":null,"x":-12,"y":70,"z":121,"yaw":31,"note":"C1, nook between bookshelves N and E, faces into concourse"},
+ {"id":"c_food_court_n","area":"termC","role":"food","label":"Food Court counter","airline":null,"x":-13,"y":70,"z":107,"yaw":0,"note":"C2, counter (slab/smokers) directly N behind, faces tables/aisle; counter is against wall so no behind-counter space"},
+ {"id":"c_food_court_s","area":"termC","role":"food","label":"Food Court counter","airline":null,"x":-12,"y":70,"z":113,"yaw":180,"note":"C2, smoker counter directly S behind, faces tables/aisle"},
+ {"id":"c_shop_dutyfree","area":"termC","role":"shop","label":"Duty Free","airline":null,"x":-14,"y":70,"z":93,"yaw":-31,"note":"C3, barrels N and W, faces into concourse"},
+ {"id":"c_baggage_2","area":"termC","role":"baggage","label":"Baggage Claim 2","airline":"united","x":-22,"y":64,"z":105,"yaw":0,"note":"arrivals level, at north end of carousel 2 (rim directly S)"},
+ {"id":"c_info","area":"termC","role":"info","label":"Information desk","airline":null,"x":-28,"y":64,"z":110,"yaw":90,"note":"arrivals level, behind info desk (quartz W, sign on top); customers at x=-31"},
+ {"id":"c_pilot_1","area":"termC","role":"pilot","label":"United pilot, Gate C71","airline":"united","x":-1,"y":70,"z":127,"yaw":90,"note":"C1 window nook (glass N and E), clear of seating and desk"},
+ {"id":"c_attendant_1","area":"termC","role":"attendant","label":"United flight attendant, Gate C101","airline":"united","x":4,"y":70,"z":107,"yaw":90,"note":"C2 corner by window (glass N and E), beside gate desk area"},
+ {"id":"c_pilot_2","area":"termC","role":"pilot","label":"United pilot, Gate C120","airline":"united","x":-1,"y":70,"z":93,"yaw":90,"note":"C3 window nook (glass S and E), clear of seating and desk"}
+]

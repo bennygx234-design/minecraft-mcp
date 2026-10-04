@@ -1,0 +1,520 @@
+[
+{
+"id": "a00_carter",
+"name": "Carter",
+"role": "gate",
+"x": 68,
+"y": 8,
+"z": 14,
+"yaw": 180,
+"world": [
+-201.5,
+80,
+-221.5
+]
+},
+{
+"id": "a01_reyes",
+"name": "Reyes",
+"role": "gate",
+"x": 112,
+"y": 8,
+"z": 14,
+"yaw": 180,
+"world": [
+-157.5,
+80,
+-221.5
+]
+},
+{
+"id": "a02_brooks",
+"name": "Brooks",
+"role": "booth",
+"x": 73,
+"y": 9,
+"z": 17,
+"yaw": 180,
+"world": [
+-196.5,
+81,
+-218.5
+]
+},
+{
+"id": "a03_nguyen",
+"name": "Nguyen",
+"role": "booth",
+"x": 106,
+"y": 9,
+"z": 17,
+"yaw": 180,
+"world": [
+-163.5,
+81,
+-218.5
+]
+},
+{
+"id": "a04_hayes",
+"name": "Hayes",
+"role": "portico",
+"x": 84,
+"y": 8,
+"z": 39,
+"yaw": 180,
+"world": [
+-185.5,
+80,
+-196.5
+]
+},
+{
+"id": "a05_okafor",
+"name": "Okafor",
+"role": "portico",
+"x": 96,
+"y": 8,
+"z": 39,
+"yaw": 180,
+"world": [
+-173.5,
+80,
+-196.5
+]
+},
+{
+"id": "a06_sullivan",
+"name": "Sullivan",
+"role": "portico_s",
+"x": 84,
+"y": 8,
+"z": 96,
+"yaw": 0,
+"world": [
+-185.5,
+80,
+-139.5
+]
+},
+{
+"id": "a07_dawson",
+"name": "Dawson",
+"role": "portico_s",
+"x": 96,
+"y": 8,
+"z": 96,
+"yaw": 0,
+"world": [
+-173.5,
+80,
+-139.5
+]
+},
+{
+"id": "a08_ramirez",
+"name": "Ramirez",
+"role": "gate",
+"x": 59,
+"y": 0,
+"z": 150,
+"yaw": 0,
+"world": [
+-210.5,
+72,
+-85.5
+]
+},
+{
+"id": "a09_price",
+"name": "Price",
+"role": "gate",
+"x": 120,
+"y": 0,
+"z": 150,
+"yaw": 0,
+"world": [
+-149.5,
+72,
+-85.5
+]
+},
+{
+"id": "a10_kowalski",
+"name": "Kowalski",
+"role": "booth",
+"x": 64,
+"y": 1,
+"z": 148,
+"yaw": 0,
+"world": [
+-205.5,
+73,
+-87.5
+]
+},
+{
+"id": "a11_mendez",
+"name": "Mendez",
+"role": "booth",
+"x": 115,
+"y": 1,
+"z": 148,
+"yaw": 0,
+"world": [
+-154.5,
+73,
+-87.5
+]
+},
+{
+"id": "a12_grant",
+"name": "Grant",
+"role": "gate",
+"x": 1,
+"y": 0,
+"z": 56,
+"yaw": 90,
+"world": [
+-268.5,
+72,
+-179.5
+]
+},
+{
+"id": "a13_lee",
+"name": "Lee",
+"role": "gate",
+"x": 175,
+"y": 0,
+"z": 59,
+"yaw": -90,
+"world": [
+-94.5,
+72,
+-176.5
+]
+},
+{
+"id": "a14_banks",
+"name": "Banks",
+"role": "vehicle_gate",
+"x": 175,
+"y": 0,
+"z": 136,
+"yaw": -90,
+"world": [
+-94.5,
+72,
+-99.5
+]
+},
+{
+"id": "a15_ortiz",
+"name": "Ortiz",
+"role": "vehicle_gate",
+"x": 172,
+"y": 1,
+"z": 147,
+"yaw": -90,
+"world": [
+-97.5,
+73,
+-88.5
+]
+},
+{
+"id": "a16_walsh",
+"name": "Walsh",
+"role": "oval",
+"x": 14,
+"y": 0,
+"z": 77,
+"yaw": -30,
+"world": [
+-255.5,
+72,
+-158.5
+]
+},
+{
+"id": "a17_fischer",
+"name": "Fischer",
+"role": "oval",
+"x": 11,
+"y": 0,
+"z": 81,
+"yaw": -60,
+"world": [
+-258.5,
+72,
+-154.5
+]
+},
+{
+"id": "a18_coleman",
+"name": "Coleman",
+"role": "corridor",
+"x": 6,
+"y": 0,
+"z": 70,
+"yaw": 0,
+"world": [
+-263.5,
+72,
+-165.5
+]
+},
+{
+"id": "a19_patel",
+"name": "Patel",
+"role": "corridor",
+"x": 6,
+"y": 0,
+"z": 88,
+"yaw": 180,
+"world": [
+-263.5,
+72,
+-147.5
+]
+},
+{
+"id": "a20_morgan",
+"name": "Morgan",
+"role": "garden",
+"x": 32,
+"y": 0,
+"z": 87,
+"yaw": -90,
+"world": [
+-237.5,
+72,
+-148.5
+]
+},
+{
+"id": "a21_hunt",
+"name": "Hunt",
+"role": "roof",
+"x": 50,
+"y": 27,
+"z": 50,
+"yaw": 180,
+"world": [
+-219.5,
+99,
+-185.5
+]
+},
+{
+"id": "a22_shaw",
+"name": "Shaw",
+"role": "roof",
+"x": 130,
+"y": 27,
+"z": 80,
+"yaw": 0,
+"world": [
+-139.5,
+99,
+-155.5
+]
+},
+{
+"id": "a23_kane",
+"name": "Kane",
+"role": "sniper",
+"x": 53,
+"y": 33,
+"z": 66,
+"yaw": 90,
+"world": [
+-216.5,
+105,
+-169.5
+]
+},
+{
+"id": "a24_wolfe",
+"name": "Wolfe",
+"role": "sniper",
+"x": 10,
+"y": 17,
+"z": 56,
+"yaw": 90,
+"world": [
+-259.5,
+89,
+-179.5
+]
+},
+{
+"id": "a25_bishop",
+"name": "Bishop",
+"role": "sniper",
+"x": 24,
+"y": 17,
+"z": 79,
+"yaw": 180,
+"world": [
+-245.5,
+89,
+-156.5
+]
+},
+{
+"id": "a26_steele",
+"name": "Steele",
+"role": "sniper",
+"x": 52,
+"y": 27,
+"z": 84,
+"yaw": 45,
+"world": [
+-217.5,
+99,
+-151.5
+]
+},
+{
+"id": "a27_knox",
+"name": "Knox",
+"role": "sniper",
+"x": 128,
+"y": 27,
+"z": 52,
+"yaw": -135,
+"world": [
+-141.5,
+99,
+-183.5
+]
+},
+{
+"id": "a28_vance",
+"name": "Vance",
+"role": "sniper",
+"x": 127,
+"y": 33,
+"z": 66,
+"yaw": -90,
+"world": [
+-142.5,
+105,
+-169.5
+]
+},
+{
+"id": "a29_archer",
+"name": "Archer",
+"role": "sniper",
+"x": 90,
+"y": 33,
+"z": 50,
+"yaw": 180,
+"world": [
+-179.5,
+105,
+-185.5
+]
+},
+{
+"id": "a30_holt",
+"name": "Holt",
+"role": "helipad",
+"x": 80,
+"y": 0,
+"z": 109,
+"yaw": 135,
+"world": [
+-189.5,
+72,
+-126.5
+]
+},
+{
+"id": "a31_pierce",
+"name": "Pierce",
+"role": "helipad",
+"x": 100,
+"y": 0,
+"z": 109,
+"yaw": -135,
+"world": [
+-169.5,
+72,
+-126.5
+]
+},
+{
+"id": "a32_rhodes",
+"name": "Rhodes",
+"role": "helipad",
+"x": 80,
+"y": 0,
+"z": 123,
+"yaw": 45,
+"world": [
+-189.5,
+72,
+-112.5
+]
+},
+{
+"id": "a33_tanaka",
+"name": "Tanaka",
+"role": "helipad",
+"x": 100,
+"y": 0,
+"z": 123,
+"yaw": -45,
+"world": [
+-169.5,
+72,
+-112.5
+]
+},
+{
+"id": "p0_miller",
+"name": "Miller",
+"role": "patrol",
+"x": 10,
+"y": 8,
+"z": 16,
+"yaw": -90,
+"world": [
+-259.5,
+80,
+-219.5
+]
+},
+{
+"id": "p1_ward",
+"name": "Ward",
+"role": "patrol",
+"x": 70,
+"y": 0,
+"z": 149,
+"yaw": -90,
+"world": [
+-199.5,
+72,
+-86.5
+]
+},
+{
+"id": "p2_fox",
+"name": "Fox",
+"role": "patrol",
+"x": 174,
+"y": 0,
+"z": 70,
+"yaw": 0,
+"world": [
+-95.5,
+72,
+-165.5
+]
+}
+]

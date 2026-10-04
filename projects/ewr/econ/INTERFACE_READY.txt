@@ -1,0 +1,32 @@
+ewr_econ INTERFACE - READY (live, reloaded, tested 2026-10-03)
+Pack: server\world\datapacks\ewr_econ   (generator: C:\Users\benny\.claude\jobs\ef42125c\tmp\ewr\econ\gen.py)
+
+Scoreboard objective: money  (display "Money", on the sidebar). New players get $1,000 once.
+Infinite players carry the tag ewr_infinite (buggati354, AniYiga): purchases always succeed, never deduct.
+
+1) BUY  (run AS the buyer, at the buyer):
+   execute as <buyer> at @s run function ewr_econ:try_buy {price:<int>, item:"<text>", then:"<namespace:function>"}
+   example:
+   function ewr_econ:try_buy {price:150, item:"Flight ticket to Terminal C", then:"ewr_staff:sell/ticket_c"}
+
+   - ewr_infinite OR money >= price: deducts price (not for infinite), actionbar "Bought <item> for $<price>" (green),
+     then runs `function <then>` as/at the buyer, and try_buy returns 1.
+   - otherwise: red actionbar "Not enough money: <item> costs $<price>, you have $<money>", runs nothing, returns fail (0).
+   - You can test the result: execute store success score #x obj run function ewr_econ:try_buy {...}
+     or: execute if function ewr_econ:try_buy {...} run ...   (note: that form runs `then` too)
+   Rules: price is a plain int (no commas). item must not contain " or \ characters.
+          `then` must be a NON-macro function id (it is called with no arguments).
+          From inside your own macro you may write:
+          $function ewr_econ:try_buy {price:$(price), item:"$(item)", then:"$(then)"}
+
+2) GIVE / TAKE money (any context):
+   function ewr_econ:give {player:"<name>", amount:<int>}     (negative amount takes money; no-op for ewr_infinite)
+
+3) BALANCE (as the player): function ewr_econ:balance        (tellraw to @s)
+
+Read a balance in a selector-free way: scoreboard players get <name> money  /  execute if score @s money matches 100.. ...
+
+4) INFINITE MONEY (name-based, checked on join and every 20 ticks):
+   function ewr_econ:add_infinite {player:"<name>"}      (stored in storage ewr_econ:cfg infinite; tags now if online)
+   function ewr_econ:remove_infinite {player:"<name>"}
+   Seed names (buggati354, AniYiga, pitaishere) live in INFINITE in econ/gen.py. Test for it with tag ewr_infinite.

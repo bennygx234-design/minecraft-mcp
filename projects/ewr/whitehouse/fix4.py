@@ -1,0 +1,38 @@
+p='s4_interiors.py'; s=open(p,encoding='utf-8').read()
+R=[("r.opening = None\n",""),
+("r.box(21, 7, 5, 23, 7, 11, 'air')\nr.box(20, 0, 13","r.box(21, 7, 6, 23, 7, 11, 'air')\nr.box(20, 0, 13"),
+("r.box(20, 7, 5, 24, 7, 12, 'polished_diorite'); r.box(21, 7, 5, 23, 7, 11, 'air')","r.box(20, 7, 5, 24, 7, 12, 'polished_diorite'); r.box(21, 7, 6, 23, 7, 11, 'air')"),
+("r.box(61, 18, 4, 63, 18, 14, 'air')\nfor z in range(4, 16):\n    r.set(60, 8","r.box(61, 18, 6, 63, 18, 14, 'air')\nfor z in range(4, 16):\n    r.set(60, 8"),
+("r.box(61, 18, 4, 63, 18, 14, 'air')         # grand","r.box(61, 18, 6, 63, 18, 14, 'air')         # grand"),
+("for z in range(4, 16):\n    r.set(60, 19, z, 'diorite_wall'); r.set(64, 19, z, 'diorite_wall')\nfor x in range(60, 65):\n    r.set(x, 19, 3, 'diorite_wall')\n",
+ "for z in range(6, 15):\n    r.set(60, 19, z, 'diorite_wall'); r.set(64, 19, z, 'diorite_wall')\n"),
+("if not (61 <= x <= 63 and 4 <= z <= 14)","if not (61 <= x <= 63 and 6 <= z <= 14)"),
+("r.box(40, 26, 8, 42, 26, 14, 'air')\nfor x in (39, 43):\n    for z in range(8, 15):","r.box(40, 26, 9, 42, 26, 14, 'air')\nopening(44, 18, 45, 18, 27, 3)\nfor x in (39, 43):\n    for z in range(9, 15):"),
+("label(11, 2, 16, ['', 'White House', 'Kitchen', ''], 'south')","label(14, 2, 18, ['', 'White House', 'Kitchen', ''], 'south')"),
+("label(42, 2, 16, ['', 'Ground Floor', 'Corridor', ''], 'south')\n",""),
+("label(71, 2, 16,","label(68, 2, 18,"),
+("label(25, 2, 22, ['', 'Library', '', ''], 'south')","label(28, 2, 20, ['', 'Library', '', ''], 'north')"),
+("label(59, 2, 22, ['', 'Map Room', '', ''], 'south')","label(62, 2, 20, ['', 'Map Room', '', ''], 'north')"),
+("label(74, 2, 22, ['', 'Vermeil Room', '', ''], 'south')","label(77, 2, 20, ['', 'Vermeil Room', '', ''], 'north')"),
+("label(11, 2, 22, ['', 'Palm Room', '', ''], 'south')","label(14, 2, 20, ['', 'Palm Room', '', ''], 'north')"),
+("label(42, 3, 26, ['', 'Diplomatic', 'Reception Room', ''], 'north')","label(38, 2, 20, ['', 'Diplomatic', 'Reception Room', ''], 'north')"),
+("label(42, 10, 1, ['', 'Entrance Hall', '', ''], 'south')","label(38, 11, 1, ['', 'Entrance Hall', '', ''], 'south')"),
+("label(66, 10, 19, ['', 'East Room', '', ''], 'west')","label(64, 13, 19, ['', 'East Room', '', ''], 'west')"),
+("label(62, 10, 16, ['', 'Grand', 'Staircase', ''], 'south')","label(60, 11, 13, ['', 'Grand', 'Staircase', ''], 'east')"),
+("label(18, 10, 19, ['', 'State Dining', 'Room', ''], 'east') if False else label(19, 11, 21, ['State', 'Dining Room', '<-', ''], 'east')","label(20, 13, 19, ['', 'State', 'Dining Room', ''], 'east')"),
+("label(25, 11, 22, ['', 'Red Room', '', ''], 'north') if False else label(25, 11, 21, ['', 'Red Room', '', ''], 'north')","label(25, 12, 21, ['', 'Red Room', '', ''], 'north')"),
+("label(59, 11, 21, ['', 'Green Room', '', ''], 'north')","label(59, 12, 21, ['', 'Green Room', '', ''], 'north')"),
+("label(42, 11, 25, ['', 'Blue Room', '', ''], 'north') if False else label(42, 11, 22, ['', 'Blue Room', '', ''], 'north')","label(42, 12, 21, ['', 'Blue Room', '', ''], 'north')"),
+("opening(7, 16, 8, 16, 19, 3); label(8, 21, 16, ['', 'Family', 'Kitchen', ''], 'south')","opening(7, 16, 8, 16, 19, 3); label(10, 21, 17, ['', 'Family', 'Kitchen', ''], 'south')"),
+("        lx, lz, lf = title[1]\n        label(lx, 21, lz, ['', title[0], '', ''], lf)","        lx, lz, lf = title[1]\n        label(door[0] + 3, 21, lz + (1 if lf == 'south' else -1), ['', title[0], '', ''], lf)"),
+("label(44, 21, 16, ['', 'Stairs to', 'Third Floor', ''], 'south')","label(44, 21, 17, ['', 'Stairs to', 'Third Floor', ''], 'south')"),
+("label(21, 21, 23, ['', 'West Sitting', 'Hall', ''], 'north')","label(24, 21, 22, ['', 'West Sitting', 'Hall', ''], 'north')"),
+("label(42, 21, 23, ['', 'Yellow Oval', 'Room', ''], 'north')","label(45, 21, 22, ['', 'Yellow Oval', 'Room', ''], 'north')"),
+("label(59, 21, 23, ['', 'Treaty Room', '', ''], 'north')","label(62, 21, 22, ['', 'Treaty Room', '', ''], 'north')"),
+("label(74, 21, 23, ['', 'Lincoln', 'Bedroom', ''], 'north')","label(77, 21, 22, ['', 'Lincoln', 'Bedroom', ''], 'north')"),
+("label(42, 29, 24, ['', 'Solarium', '', ''], 'south') if False else label(44, 29, 24, ['', 'Solarium', '', ''], 'south')","label(45, 29, 23, ['', 'Solarium', '', ''], 'north')"),
+]
+for a,c in R:
+    if a not in s: print("MISSING", a[:70]); continue
+    s=s.replace(a,c)
+open(p,'w',encoding='utf-8').write(s)

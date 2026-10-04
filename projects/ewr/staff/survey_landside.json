@@ -1,0 +1,29 @@
+{
+ "staff": [
+  {"id":"l_rent_hertz","area":"landside","role":"rental","label":"Hertz Rentals","brand":"Hertz","x":-75,"y":65,"z":276,"yaw":-90,"note":"behind Hertz counter (counter x=-73, chair x=-74); customers stand x=-72. Rental hall floor is y=64 so walk level is y=65"},
+  {"id":"l_rent_avis","area":"landside","role":"rental","label":"Avis Rentals","brand":"Avis","x":-75,"y":65,"z":273,"yaw":-90,"note":"behind Avis counter; customers at x=-72"},
+  {"id":"l_rent_enterprise","area":"landside","role":"rental","label":"Enterprise Rentals","brand":"Enterprise","x":-75,"y":65,"z":270,"yaw":-90,"note":"behind Enterprise counter, opposite the hall entrance (x=-68, z268-271)"},
+  {"id":"l_rent_national","area":"landside","role":"rental","label":"National Rentals","brand":"National","x":-75,"y":65,"z":267,"yaw":-90,"note":"behind National counter; customers at x=-72"},
+  {"id":"l_rent_budget","area":"landside","role":"rental","label":"Budget Rentals","brand":"Budget","x":-75,"y":65,"z":264,"yaw":-90,"note":"behind Budget counter; customers at x=-72"},
+  {"id":"l_rent_alamo","area":"landside","role":"rental","label":"Alamo Rentals","brand":"Alamo","x":-75,"y":65,"z":261,"yaw":-90,"note":"behind Alamo counter (north end); customers at x=-72 (ladder to deck at x=-71,z=261)"},
+  {"id":"l_hotel_desk_1","area":"landside","role":"reception","label":"Marriott Front Desk","brand":null,"x":-77,"y":65,"z":195,"yaw":-90,"note":"behind reception desk (desk x=-76, z192-202), between desk chairs; guests at x=-75. Lobby floor is y=64, walk y=65"},
+  {"id":"l_hotel_desk_2","area":"landside","role":"reception","label":"Marriott Front Desk","brand":null,"x":-77,"y":65,"z":199,"yaw":-90,"note":"behind reception desk, other side of the bell (-76,65,197); guests at x=-75"},
+  {"id":"l_hotel_bellhop","area":"landside","role":"bellhop","label":"Marriott Bell Desk","brand":null,"x":-70,"y":65,"z":194,"yaw":-90,"note":"inside lobby just north of the east entrance doors (x=-69, z196-198), out of the doorway path, facing the entrance"},
+  {"id":"l_hotel_bartender","area":"landside","role":"bartender","label":"Marriott Lobby Bar","brand":null,"x":-79,"y":65,"z":191,"yaw":-90,"note":"NO bar counter was built - only a 'Lobby Bar' wall sign at (-80,66,191) on the west wall. Spot is right in front of that sign, facing into the lobby; guests at x=-77..-76"},
+  {"id":"l_garage_pa_south","area":"landside","role":"garage","label":"Garage P-A Entry","brand":null,"x":-67,"y":64,"z":254,"yaw":180,"note":"on the grass verge beside yellow bollard (-68,64-65,254), just south of the P-A entry lane (opening x=-69, z251-253), facing the lane"},
+  {"id":"l_garage_pa_north","area":"landside","role":"garage","label":"Garage P-A Entry","brand":null,"x":-67,"y":64,"z":219,"yaw":180,"note":"beside bollard (-68,64,219), just south of the P-A north entry lane (z215-218), facing the lane"},
+  {"id":"l_garage_p4","area":"landside","role":"garage","label":"Garage P4 Entry","brand":null,"x":-67,"y":64,"z":180,"yaw":180,"note":"beside bollard (-68,64,180), just south of the P4 entry lane (z177-179), facing the lane"},
+  {"id":"l_atc_1","area":"landside","role":"atc","label":"EWR Tower Cab","brand":null,"x":-50,"y":108,"z":159,"yaw":-90,"note":"at the east console (x=-49, lectern above) between controller chairs, facing out over the runways"},
+  {"id":"l_atc_2","area":"landside","role":"atc","label":"EWR Tower Cab","brand":null,"x":-50,"y":108,"z":161,"yaw":-90,"note":"at the east console between chairs, facing runways"},
+  {"id":"l_atc_3","area":"landside","role":"atc","label":"EWR Tower Cab","brand":null,"x":-52,"y":108,"z":158,"yaw":180,"note":"at the north console (lectern -52,109,156), facing north window along the field; clear of ladder hatch (-53,107,160)"}
+ ],
+ "car_spots": [
+  {"x":-77.5,"y":64,"z":286.5,"yaw":180,"note":"grass lot just south of the rental center (south wall z=279); footprint x-79..-77, z284..288 verified grass at y63, air y64-67"},
+  {"x":-73.5,"y":64,"z":286.5,"yaw":180,"note":"footprint x-75..-73, z284..288 clear"},
+  {"x":-69.5,"y":64,"z":286.5,"yaw":180,"note":"footprint x-71..-69, z284..288 clear"},
+  {"x":-65.5,"y":64,"z":286.5,"yaw":180,"note":"footprint x-67..-65, z284..288 clear; loop road starts at x=-62 (ends z=280) so off-lane"},
+  {"x":-77.5,"y":64,"z":293.5,"yaw":180,"note":"second row, footprint x-79..-77, z291..295 clear"},
+  {"x":-73.5,"y":64,"z":293.5,"yaw":180,"note":"second row, footprint x-75..-73, z291..295 clear"}
+ ],
+ "marriott": {"total_storeys":16,"lobby_floor":1,"guest_floors":"2-16 (15 guest floors)","guest_floor_walk_y":"floor N walks at y = 70 + 3*(N-2), i.e. floor 2 y=70 ... floor 16 y=112","roof_y":114,"access":"ladder core at (-76, z=189) through every slab","note":"rooms on both sides of a 1-wide corridor at x=-76 (rooms west x-80..-78, east x-74..-72)"}
+}

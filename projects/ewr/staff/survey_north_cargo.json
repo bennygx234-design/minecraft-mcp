@@ -1,0 +1,16 @@
+[
+ {"id":"n_mech_h1_1","area":"north","role":"mechanic","label":"Hangar 1 Maintenance","x":-34,"y":64,"z":-38,"yaw":0,"note":"United hangar back workshop, behind workbench (-35..-34,-37), anvil tool wall at his back; faces the hangar floor. Plane tail ends at z~-34, clear"},
+ {"id":"n_mech_h1_2","area":"north","role":"mechanic","label":"Hangar 1 Maintenance","x":-20,"y":64,"z":-38,"yaw":0,"note":"United hangar workshop, behind workbench (-20..-19,-37) by the anvil/grindstone wall; under mezzanine (ceiling y69)"},
+ {"id":"n_mech_h2_1","area":"north","role":"mechanic","label":"Hangar 2 Maintenance","x":-2,"y":64,"z":-38,"yaw":0,"note":"FedEx line-maint hangar workshop, behind workbench (-3..-2,-37), anvil behind; plane tail ends at z~-33"},
+ {"id":"n_mech_h3_1","area":"north","role":"mechanic","label":"Hangar 3 Maintenance","x":27,"y":64,"z":-38,"yaw":0,"note":"Delta TechOps hangar workshop, behind workbench (26..27,-37); plane tail ends at z~-33"},
+ {"id":"n_ff_bay1","area":"north","role":"firefighter","label":"ARFF Station","x":47,"y":64,"z":-20,"yaw":-90,"note":"Inside open bay 1 mouth, beside truck nose (truck z-19..-17) and gear-locker row (z-22..-21); faces the apron/runway side"},
+ {"id":"n_ff_bay2","area":"north","role":"firefighter","label":"ARFF Station","x":47,"y":64,"z":-27,"yaw":-90,"note":"Inside open bay 2 mouth, beside truck (z-26..-24), gear lockers/chest at z-28 behind; faces the apron"},
+ {"id":"n_ff_watch","area":"north","role":"firefighter","label":"ARFF Watch Room","x":44,"y":75,"z":-37,"yaw":90,"note":"Watch tower cab (floor y74), next to lectern (45,75,-38)/chair (43,75,-38); faces the ladder exit at (42,75,-37)"},
+ {"id":"n_fbo_concierge","area":"north","role":"concierge","label":"FBO Concierge","x":44,"y":64,"z":5,"yaw":0,"note":"Behind the quartz lobby desk (42..45,z6), between staff chairs (43/45,z5); faces the south entrance doors (44..45,z10)"},
+ {"id":"c_fedex_sort","area":"cargo","role":"cargo","label":"FedEx Hub","x":-24,"y":64,"z":277,"yaw":-90,"note":"Beside the sort conveyor (x-26..-25) between spurs z274/z280; faces east toward the open dock (x-16,z275-276)"},
+ {"id":"c_fedex_dock","area":"cargo","role":"cargo","label":"FedEx Hub","x":-17,"y":64,"z":277,"yaw":-135,"note":"Inside the hub just south of open dock door (x-16,z275-276), against the wall pier; does not block the doorway; faces the dock"},
+ {"id":"c_ups_sort","area":"cargo","role":"cargo","label":"UPS Hub","x":-25,"y":64,"z":305,"yaw":-90,"note":"Beside the UPS sort belt (x-27..-26) between spurs z302/z308; faces east toward the open dock (x-19,z306-307)"},
+ {"id":"c_ups_dock","area":"cargo","role":"cargo","label":"UPS Hub","x":-20,"y":64,"z":305,"yaw":-45,"note":"Inside, just north of open dock door (x-19,z306-307) beside wall pier; faces the dock opening"},
+ {"id":"c_ramp_fedex","area":"cargo","role":"ramp","label":"FedEx Ramp","x":2,"y":64,"z":274,"yaw":90,"note":"Beside the K-loader (x3..6,z275..277) at the wide freighter's forward door; fuselage edge z~278.3, nose x~-0.5, wing starts x~10; off the lead-in line z279; faces west to the cargo stop"},
+ {"id":"c_ramp_ups","area":"cargo","role":"ramp","label":"UPS Ramp","x":0,"y":64,"z":299,"yaw":90,"note":"Beside the K-loader (x1..4,z300..302) at the UPS freighter's forward door; fuselage edge z~303.5, nose x~-1.5; off lead-in z304; faces west"}
+]

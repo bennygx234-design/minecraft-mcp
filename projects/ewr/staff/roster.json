@@ -1,0 +1,1012 @@
+[
+{
+"id": "x_sales_1",
+"role": "sales",
+"name": "Kofi",
+"title": "Sales Consultant",
+"x": 96,
+"y": 72,
+"z": -84,
+"yaw": 45
+},
+{
+"id": "x_sales_3",
+"role": "sales",
+"name": "Mateo",
+"title": "Sales Consultant",
+"x": 108,
+"y": 72,
+"z": -83,
+"yaw": 0
+},
+{
+"id": "x_train_a",
+"role": "train",
+"name": "Tariq",
+"title": "AirTrain Attendant",
+"x": -46,
+"y": 73,
+"z": 243,
+"yaw": -90
+},
+{
+"id": "x_train_b",
+"role": "train",
+"name": "Monica",
+"title": "AirTrain Attendant",
+"x": -46,
+"y": 73,
+"z": 164,
+"yaw": -90
+},
+{
+"id": "x_train_c",
+"role": "train",
+"name": "Samuel",
+"title": "AirTrain Attendant",
+"x": -46,
+"y": 73,
+"z": 131,
+"yaw": -90
+},
+{
+"id": "x_butler",
+"role": "butler",
+"name": "Lucia",
+"title": "Butler",
+"x": 86,
+"y": 76,
+"z": -128,
+"yaw": 45
+},
+{
+"id": "x_guard_w",
+"role": "guard",
+"name": "Frank",
+"title": "Manor Guard",
+"x": 80,
+"y": 75,
+"z": -102,
+"yaw": -90
+},
+{
+"id": "x_guard_e",
+"role": "guard",
+"name": "Maria",
+"title": "Manor Guard",
+"x": 86,
+"y": 75,
+"z": -102,
+"yaw": 90
+},
+{
+"id": "x_concierge",
+"role": "concierge",
+"name": "Daniel",
+"title": "Burj Khalifa Lobby",
+"x": 170,
+"y": 69,
+"z": -130,
+"yaw": 0
+},
+{
+"id": "x_deck",
+"role": "deck",
+"name": "Felix",
+"title": "Observation Deck",
+"x": 166,
+"y": 221,
+"z": -131,
+"yaw": -90
+},
+{
+"id": "l_rent_hertz",
+"role": "rental",
+"name": "Dana",
+"title": "Hertz Rentals",
+"x": -75,
+"y": 65,
+"z": 276,
+"yaw": -90
+},
+{
+"id": "l_rent_avis",
+"role": "rental",
+"name": "Mei",
+"title": "Avis Rentals",
+"x": -75,
+"y": 65,
+"z": 273,
+"yaw": -90
+},
+{
+"id": "l_rent_enterprise",
+"role": "rental",
+"name": "Ines",
+"title": "Enterprise Rentals",
+"x": -75,
+"y": 65,
+"z": 270,
+"yaw": -90
+},
+{
+"id": "l_rent_national",
+"role": "rental",
+"name": "Luca",
+"title": "National Rentals",
+"x": -75,
+"y": 65,
+"z": 267,
+"yaw": -90
+},
+{
+"id": "l_rent_budget",
+"role": "rental",
+"name": "Luis",
+"title": "Budget Rentals",
+"x": -75,
+"y": 65,
+"z": 264,
+"yaw": -90
+},
+{
+"id": "l_rent_alamo",
+"role": "rental",
+"name": "Ada",
+"title": "Alamo Rentals",
+"x": -75,
+"y": 65,
+"z": 261,
+"yaw": -90
+},
+{
+"id": "l_hotel_desk_1",
+"role": "reception",
+"name": "Omar",
+"title": "Marriott Front Desk",
+"x": -77,
+"y": 65,
+"z": 195,
+"yaw": -90
+},
+{
+"id": "l_hotel_desk_2",
+"role": "reception",
+"name": "Jorge",
+"title": "Marriott Front Desk",
+"x": -77,
+"y": 65,
+"z": 199,
+"yaw": -90
+},
+{
+"id": "l_hotel_bellhop",
+"role": "bellhop",
+"name": "Pete",
+"title": "Bellhop",
+"x": -70,
+"y": 65,
+"z": 194,
+"yaw": -90
+},
+{
+"id": "l_hotel_bartender",
+"role": "bartender",
+"name": "Sean",
+"title": "Bartender",
+"x": -79,
+"y": 65,
+"z": 191,
+"yaw": -90
+},
+{
+"id": "l_garage_pa_south",
+"role": "garage",
+"name": "Ngozi",
+"title": "Garage P-A Entry",
+"x": -67,
+"y": 64,
+"z": 254,
+"yaw": 180
+},
+{
+"id": "l_garage_pa_north",
+"role": "garage",
+"name": "Esther",
+"title": "Garage P-A Entry",
+"x": -67,
+"y": 64,
+"z": 219,
+"yaw": 180
+},
+{
+"id": "l_garage_p4",
+"role": "garage",
+"name": "Pam",
+"title": "Garage P4 Entry",
+"x": -67,
+"y": 64,
+"z": 180,
+"yaw": 180
+},
+{
+"id": "l_atc_1",
+"role": "atc",
+"name": "Kwame",
+"title": "Air Traffic Control",
+"x": -50,
+"y": 108,
+"z": 159,
+"yaw": -90
+},
+{
+"id": "l_atc_2",
+"role": "atc",
+"name": "Paolo",
+"title": "Air Traffic Control",
+"x": -50,
+"y": 108,
+"z": 161,
+"yaw": -90
+},
+{
+"id": "l_atc_3",
+"role": "atc",
+"name": "Sofia",
+"title": "Air Traffic Control",
+"x": -52,
+"y": 108,
+"z": 158,
+"yaw": 180
+},
+{
+"id": "n_mech_h1_1",
+"role": "mechanic",
+"name": "Nadia",
+"title": "Hangar 1 Maintenance",
+"x": -34,
+"y": 64,
+"z": -38,
+"yaw": 0
+},
+{
+"id": "n_mech_h1_2",
+"role": "mechanic",
+"name": "Max",
+"title": "Hangar 1 Maintenance",
+"x": -20,
+"y": 64,
+"z": -38,
+"yaw": 0
+},
+{
+"id": "n_mech_h2_1",
+"role": "mechanic",
+"name": "Ken",
+"title": "Hangar 2 Maintenance",
+"x": -2,
+"y": 64,
+"z": -38,
+"yaw": 0
+},
+{
+"id": "n_mech_h3_1",
+"role": "mechanic",
+"name": "Lola",
+"title": "Hangar 3 Maintenance",
+"x": 27,
+"y": 64,
+"z": -38,
+"yaw": 0
+},
+{
+"id": "n_ff_bay1",
+"role": "firefighter",
+"name": "Sanjay",
+"title": "ARFF Station",
+"x": 47,
+"y": 64,
+"z": -20,
+"yaw": -90
+},
+{
+"id": "n_ff_bay2",
+"role": "firefighter",
+"name": "Dev",
+"title": "ARFF Station",
+"x": 47,
+"y": 64,
+"z": -27,
+"yaw": -90
+},
+{
+"id": "n_ff_watch",
+"role": "firefighter",
+"name": "Zara",
+"title": "ARFF Watch Room",
+"x": 44,
+"y": 75,
+"z": -37,
+"yaw": 90
+},
+{
+"id": "n_fbo_concierge",
+"role": "concierge",
+"name": "Erin",
+"title": "FBO Concierge",
+"x": 44,
+"y": 64,
+"z": 5,
+"yaw": 0
+},
+{
+"id": "c_fedex_sort",
+"role": "cargo",
+"name": "Andre",
+"title": "FedEx Hub",
+"x": -24,
+"y": 64,
+"z": 277,
+"yaw": -90
+},
+{
+"id": "c_fedex_dock",
+"role": "cargo",
+"name": "Iris",
+"title": "FedEx Hub",
+"x": -17,
+"y": 64,
+"z": 277,
+"yaw": -135
+},
+{
+"id": "c_ups_sort",
+"role": "cargo",
+"name": "Olivia",
+"title": "UPS Hub",
+"x": -25,
+"y": 64,
+"z": 305,
+"yaw": -90
+},
+{
+"id": "c_ups_dock",
+"role": "cargo",
+"name": "Grace",
+"title": "UPS Hub",
+"x": -20,
+"y": 64,
+"z": 305,
+"yaw": -45
+},
+{
+"id": "c_ramp_fedex",
+"role": "ramp",
+"name": "Yuki",
+"title": "FedEx Ramp",
+"x": 2,
+"y": 64,
+"z": 274,
+"yaw": 90
+},
+{
+"id": "c_ramp_ups",
+"role": "ramp",
+"name": "Gus",
+"title": "UPS Ramp",
+"x": 0,
+"y": 64,
+"z": 299,
+"yaw": 90
+},
+{
+"id": "a_ci_jetblue_1",
+"role": "checkin",
+"name": "Kevin",
+"title": "JetBlue Check-in",
+"x": -31,
+"y": 73,
+"z": 253,
+"yaw": 180
+},
+{
+"id": "a_ci_american_2",
+"role": "checkin",
+"name": "James",
+"title": "American Check-in",
+"x": -31,
+"y": 73,
+"z": 247,
+"yaw": 180
+},
+{
+"id": "a_ci_delta_3",
+"role": "checkin",
+"name": "Jamal",
+"title": "Delta Check-in",
+"x": -31,
+"y": 73,
+"z": 231,
+"yaw": 180
+},
+{
+"id": "a_ci_alaska_4",
+"role": "checkin",
+"name": "Isabel",
+"title": "Alaska Check-in",
+"x": -31,
+"y": 73,
+"z": 224,
+"yaw": 180
+},
+{
+"id": "a_ci_spirit_5",
+"role": "checkin",
+"name": "Anna",
+"title": "Spirit Check-in",
+"x": -31,
+"y": 73,
+"z": 217,
+"yaw": 180
+},
+{
+"id": "a_ci_jetblue_2",
+"role": "checkin",
+"name": "Imani",
+"title": "JetBlue Check-in",
+"x": -31,
+"y": 73,
+"z": 211,
+"yaw": 180
+},
+{
+"id": "a_tsa_1",
+"role": "tsa",
+"name": "Ben",
+"title": "TSA Officer",
+"x": -26,
+"y": 73,
+"z": 233,
+"yaw": 0
+},
+{
+"id": "a_tsa_2",
+"role": "tsa",
+"name": "Noah",
+"title": "TSA Officer",
+"x": -26,
+"y": 73,
+"z": 227,
+"yaw": 0
+},
+{
+"id": "a_gate_a20",
+"role": "gate",
+"name": "Alice",
+"title": "Gate A20",
+"x": -2,
+"y": 73,
+"z": 237,
+"yaw": 180
+},
+{
+"id": "a_gate_a21",
+"role": "gate",
+"name": "Bruno",
+"title": "Gate A21",
+"x": -2,
+"y": 73,
+"z": 231,
+"yaw": 0
+},
+{
+"id": "a_gate_a24",
+"role": "gate",
+"name": "Darnell",
+"title": "Gate A24",
+"x": 21,
+"y": 73,
+"z": 237,
+"yaw": 180
+},
+{
+"id": "a_gate_a25",
+"role": "gate",
+"name": "Tony",
+"title": "Gate A25",
+"x": 21,
+"y": 73,
+"z": 231,
+"yaw": 0
+},
+{
+"id": "a_food_pizza",
+"role": "food",
+"name": "Eli",
+"title": "Jersey Pizza",
+"x": -22,
+"y": 73,
+"z": 256,
+"yaw": 180
+},
+{
+"id": "a_food_ramen",
+"role": "food",
+"name": "Kiara",
+"title": "Ramen House",
+"x": -22,
+"y": 73,
+"z": 210,
+"yaw": 0
+},
+{
+"id": "a_shop_news",
+"role": "shop",
+"name": "Deborah",
+"title": "Newsstand - Books & Snacks",
+"x": -15,
+"y": 73,
+"z": 245,
+"yaw": 90
+},
+{
+"id": "a_food_gsbar",
+"role": "food",
+"name": "Ivan",
+"title": "Garden State Coffee & Wine",
+"x": 10,
+"y": 73,
+"z": 234,
+"yaw": -90
+},
+{
+"id": "a_bag_a1",
+"role": "baggage",
+"name": "Vera",
+"title": "Baggage Claim Carousel A1",
+"x": -19,
+"y": 64,
+"z": 252,
+"yaw": 90
+},
+{
+"id": "a_info",
+"role": "info",
+"name": "Lena",
+"title": "Information",
+"x": -19,
+"y": 64,
+"z": 239,
+"yaw": 90
+},
+{
+"id": "a_pilot_1",
+"role": "pilot",
+"name": "Capt. Sara",
+"title": "JetBlue Captain",
+"x": 2,
+"y": 73,
+"z": 237,
+"yaw": 0
+},
+{
+"id": "a_fa_1",
+"role": "attendant",
+"name": "Oscar",
+"title": "JetBlue Flight Attendant",
+"x": 3,
+"y": 73,
+"z": 237,
+"yaw": 0
+},
+{
+"id": "a_pilot_2",
+"role": "pilot",
+"name": "Capt. Aisha",
+"title": "Alaska Captain",
+"x": 16,
+"y": 73,
+"z": 231,
+"yaw": 180
+},
+{
+"id": "b_ci_lufthansa_1",
+"role": "checkin",
+"name": "Arjun",
+"title": "Lufthansa Check-in",
+"x": -32,
+"y": 73,
+"z": 178,
+"yaw": 90
+},
+{
+"id": "b_ci_swiss_1",
+"role": "checkin",
+"name": "Carlos",
+"title": "SWISS Check-in",
+"x": -32,
+"y": 73,
+"z": 181,
+"yaw": 90
+},
+{
+"id": "b_ci_austrian_1",
+"role": "checkin",
+"name": "Rocco",
+"title": "Austrian Check-in",
+"x": -32,
+"y": 73,
+"z": 184,
+"yaw": 90
+},
+{
+"id": "b_ci_sas_1",
+"role": "checkin",
+"name": "Rosa",
+"title": "SAS Check-in",
+"x": -32,
+"y": 73,
+"z": 187,
+"yaw": 90
+},
+{
+"id": "b_ci_emirates_1",
+"role": "checkin",
+"name": "Hiro",
+"title": "Emirates Check-in",
+"x": -32,
+"y": 73,
+"z": 165,
+"yaw": 90
+},
+{
+"id": "b_ci_airindia_1",
+"role": "checkin",
+"name": "Gabriela",
+"title": "Air India Check-in",
+"x": -32,
+"y": 73,
+"z": 168,
+"yaw": 90
+},
+{
+"id": "b_ci_tap_1",
+"role": "checkin",
+"name": "Amara",
+"title": "TAP Air Portugal Check-in",
+"x": -32,
+"y": 73,
+"z": 171,
+"yaw": 90
+},
+{
+"id": "b_ci_elal_1",
+"role": "checkin",
+"name": "Priya",
+"title": "El Al Check-in",
+"x": -32,
+"y": 73,
+"z": 172,
+"yaw": 90
+},
+{
+"id": "b_ci_delta_1",
+"role": "checkin",
+"name": "Tara",
+"title": "Delta Check-in",
+"x": -32,
+"y": 73,
+"z": 148,
+"yaw": 90
+},
+{
+"id": "b_ci_alaska_1",
+"role": "checkin",
+"name": "Hannah",
+"title": "Alaska Check-in",
+"x": -32,
+"y": 73,
+"z": 151,
+"yaw": 90
+},
+{
+"id": "b_ci_aircanada_1",
+"role": "checkin",
+"name": "Claire",
+"title": "Air Canada Check-in",
+"x": -32,
+"y": 73,
+"z": 154,
+"yaw": 90
+},
+{
+"id": "b_tsa_xray_1",
+"role": "tsa",
+"name": "Marcus",
+"title": "TSA Officer",
+"x": -28,
+"y": 73,
+"z": 151,
+"yaw": 0
+},
+{
+"id": "b_tsa_bagcheck_1",
+"role": "tsa",
+"name": "Nico",
+"title": "TSA Officer",
+"x": -26,
+"y": 73,
+"z": 151,
+"yaw": 0
+},
+{
+"id": "b_cbp_booth_1",
+"role": "cbp",
+"name": "Patrick",
+"title": "CBP Officer",
+"x": -32,
+"y": 64,
+"z": 164,
+"yaw": 0
+},
+{
+"id": "b_cbp_booth_2",
+"role": "cbp",
+"name": "Fatima",
+"title": "CBP Officer",
+"x": -28,
+"y": 64,
+"z": 164,
+"yaw": 0
+},
+{
+"id": "b_cbp_customs_1",
+"role": "cbp",
+"name": "Rhea",
+"title": "CBP Officer",
+"x": -33,
+"y": 64,
+"z": 146,
+"yaw": 0
+},
+{
+"id": "b_bag_carousel3_1",
+"role": "baggage",
+"name": "Ravi",
+"title": "Baggage Service Carousel 3",
+"x": -25,
+"y": 64,
+"z": 160,
+"yaw": 90
+},
+{
+"id": "b_info_1",
+"role": "info",
+"name": "Mila",
+"title": "Information",
+"x": -38,
+"y": 64,
+"z": 160,
+"yaw": -90
+},
+{
+"id": "b_shop_dutyfree_1",
+"role": "shop",
+"name": "Bianca",
+"title": "Duty Free Americas",
+"x": -25,
+"y": 73,
+"z": 188,
+"yaw": 180
+},
+{
+"id": "b_food_cafeeuropa_b2",
+"role": "food",
+"name": "Tom",
+"title": "Cafe Europa (B2 kiosk)",
+"x": -11,
+"y": 69,
+"z": 167,
+"yaw": -90
+},
+{
+"id": "b_food_globalbar_b3",
+"role": "food",
+"name": "Reggie",
+"title": "Global Bar (B3 kiosk)",
+"x": -11,
+"y": 69,
+"z": 152,
+"yaw": -90
+},
+{
+"id": "b_gate_b42",
+"role": "gate",
+"name": "Elena",
+"title": "Gate B42",
+"x": -8,
+"y": 69,
+"z": 182,
+"yaw": 90
+},
+{
+"id": "b_gate_b51",
+"role": "gate",
+"name": "Selin",
+"title": "Gate B51",
+"x": -10,
+"y": 69,
+"z": 170,
+"yaw": 90
+},
+{
+"id": "b_gate_b62",
+"role": "gate",
+"name": "Malik",
+"title": "Gate B62",
+"x": -8,
+"y": 69,
+"z": 150,
+"yaw": 90
+},
+{
+"id": "b_pilot_lh_1",
+"role": "pilot",
+"name": "Capt. Raj",
+"title": "Lufthansa Captain",
+"x": -8,
+"y": 69,
+"z": 154,
+"yaw": -90
+},
+{
+"id": "b_fa_ek_1",
+"role": "attendant",
+"name": "Chloe",
+"title": "Emirates Flight Attendant",
+"x": -8,
+"y": 69,
+"z": 166,
+"yaw": -90
+},
+{
+"id": "c_ci_united_1",
+"role": "checkin",
+"name": "Simone",
+"title": "United Check-in",
+"x": -28,
+"y": 70,
+"z": 124,
+"yaw": 68
+},
+{
+"id": "c_ci_united_3",
+"role": "checkin",
+"name": "Joy",
+"title": "United Check-in",
+"x": -31,
+"y": 70,
+"z": 110,
+"yaw": 90
+},
+{
+"id": "c_ci_united_5",
+"role": "checkin",
+"name": "Victor",
+"title": "United Check-in",
+"x": -28,
+"y": 70,
+"z": 96,
+"yaw": 112
+},
+{
+"id": "c_tsa_1",
+"role": "tsa",
+"name": "Nina",
+"title": "TSA Officer",
+"x": -22,
+"y": 70,
+"z": 107,
+"yaw": 45
+},
+{
+"id": "c_tsa_2",
+"role": "tsa",
+"name": "Ethan",
+"title": "TSA Officer",
+"x": -22,
+"y": 70,
+"z": 113,
+"yaw": 135
+},
+{
+"id": "c_gate_c1",
+"role": "gate",
+"name": "Leila",
+"title": "Gate C71",
+"x": -2,
+"y": 70,
+"z": 130,
+"yaw": 120
+},
+{
+"id": "c_gate_c2",
+"role": "gate",
+"name": "Diego",
+"title": "Gate C101",
+"x": 4,
+"y": 70,
+"z": 110,
+"yaw": 90
+},
+{
+"id": "c_gate_c3",
+"role": "gate",
+"name": "Ruth",
+"title": "Gate C120",
+"x": -2,
+"y": 70,
+"z": 90,
+"yaw": 60
+},
+{
+"id": "c_shop_hudson",
+"role": "shop",
+"name": "Wei",
+"title": "Hudson News",
+"x": -12,
+"y": 70,
+"z": 121,
+"yaw": 31
+},
+{
+"id": "c_food_court_n",
+"role": "food",
+"name": "Hugo",
+"title": "Food Court counter",
+"x": -13,
+"y": 70,
+"z": 107,
+"yaw": 0
+},
+{
+"id": "c_baggage_2",
+"role": "baggage",
+"name": "Layla",
+"title": "Baggage Claim 2",
+"x": -22,
+"y": 64,
+"z": 105,
+"yaw": 0
+},
+{
+"id": "c_info",
+"role": "info",
+"name": "Priya J.",
+"title": "Information",
+"x": -28,
+"y": 64,
+"z": 110,
+"yaw": 90
+},
+{
+"id": "c_pilot_1",
+"role": "pilot",
+"name": "Capt. Jamal K.",
+"title": "United Captain",
+"x": -1,
+"y": 70,
+"z": 127,
+"yaw": 90
+},
+{
+"id": "c_attendant_1",
+"role": "attendant",
+"name": "Elena L.",
+"title": "United Flight Attendant",
+"x": 4,
+"y": 70,
+"z": 107,
+"yaw": 90
+}
+]
