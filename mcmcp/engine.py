@@ -12,6 +12,7 @@ Placement pipeline for a build:
 
 from __future__ import annotations
 
+import contextlib
 import json
 import os
 import re
@@ -205,6 +206,10 @@ class Engine:
         return added
 
     def release(self, dimension: str, chunks: list[tuple[int, int]]):
+        # With several builders working side by side, one releasing a shared border chunk would
+        # unload it under a neighbour; they set MCMCP_KEEP_FORCELOAD=1 and the area is released after.
+        if os.environ.get("MCMCP_KEEP_FORCELOAD") == "1":
+            return
         for cx, cz in chunks:
             self.cmd(f"forceload remove {cx * 16} {cz * 16}", dimension)
 
@@ -308,6 +313,28 @@ class Engine:
         return out
 
     # -- history ------------------------------------------------------------
+    @contextlib.contextmanager
+    def _history_lock(self, timeout: float = 60):
+        """Cross-process lock so parallel builders don't lose each other's history entries."""
+        lock = HISTORY + ".lock"
+        os.makedirs(os.path.dirname(HISTORY), exist_ok=True)
+        t0 = time.time()
+        while True:
+            try:
+                os.mkdir(lock)
+                break
+            except FileExistsError:
+                if time.time() - os.path.getmtime(lock) > 120:   # stale lock from a crashed process
+                    os.rmdir(lock)
+                    continue
+                if time.time() - t0 > timeout:
+                    raise EngineError("timed out waiting for the build-history lock")
+                time.sleep(0.05)
+        try:
+            yield
+        finally:
+            os.rmdir(lock)
+
     def history(self) -> list[Placement]:
         if not os.path.exists(HISTORY):
             return []
@@ -363,9 +390,10 @@ class Engine:
         cmx = tuple(max(p[i] for p in changed) for i in range(3))
         pl = Placement(bid, name, dimension, tuple(origin), cmn, cmx, len(changed),
                        f"{NAMESPACE}:{tpl}", f"{NAMESPACE}:{utpl}", time.time())
-        hist = self.history()
-        hist.append(pl)
-        self._save_history(hist)
+        with self._history_lock():
+            hist = self.history()
+            hist.append(pl)
+            self._save_history(hist)
         errors = [p for p in post[1:] if p and ("Unknown" in p or "Incorrect" in p or "rror" in p or "Invalid" in p)]
         return {"id": bid, "name": name, "dimension": dimension, "blocks_changed": len(changed),
                 "blocks_planned": len(cells), "min": cmn, "max": cmx,
@@ -400,8 +428,12 @@ class Engine:
         a, b_ = target.min, target.max
         self.cmd(f"kill @e[type=item,x={a[0]},y={a[1]},z={a[2]},dx={b_[0] - a[0] + 1},dy={b_[1] - a[1] + 1},dz={b_[2] - a[2] + 1}]",
                  target.dimension)
-        target.undone = True
-        self._save_history(hist)
+        with self._history_lock():
+            hist = self.history()
+            for p in hist:
+                if p.id == target.id:
+                    p.undone = True
+            self._save_history(hist)
         out = {"undone": target.id, "name": target.name, "blocks": target.blocks}
         if later:
             out["warning"] = "later builds overlapped this one and may now be partly overwritten: " + \
