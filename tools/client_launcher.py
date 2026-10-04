@@ -163,20 +163,21 @@ def write_options(width: int, height: int) -> None:
             f.write(f"{k}:{v}\n")
 
 
-def launch(name: str, server: str | None, width: int, height: int) -> subprocess.Popen:
+def launch(name: str, server: str | None, width: int, height: int, world: str | None = None) -> subprocess.Popen:
     j = manifest()
     write_options(width, height)
     natives = os.path.join(CLIENT, "natives")
     os.makedirs(natives, exist_ok=True)
     cp = [p for _, p, _ in libraries(j)] + [CLIENT_JAR]
-    features = {"has_custom_resolution": True, "is_quick_play_multiplayer": bool(server)}
+    features = {"has_custom_resolution": True, "is_quick_play_multiplayer": bool(server) and not world,
+                "is_quick_play_singleplayer": bool(world)}
     offline_uuid = offline_uuid_for(name)
     vals = {
         "auth_player_name": name, "version_name": VERSION, "game_directory": CLIENT,
         "assets_root": os.path.join(CLIENT, "assets"), "assets_index_name": j["assetIndex"]["id"],
         "auth_uuid": offline_uuid.hex, "auth_access_token": "0", "clientid": "0", "auth_xuid": "0",
         "version_type": "release", "resolution_width": str(width), "resolution_height": str(height),
-        "quickPlayMultiplayer": server or "", "natives_directory": natives, "launcher_name": "mcmcp",
+        "quickPlayMultiplayer": server or "", "quickPlaySingleplayer": world or "", "natives_directory": natives, "launcher_name": "mcmcp",
         "launcher_version": "1", "classpath": os.pathsep.join(cp), "classpath_separator": os.pathsep,
         "library_directory": os.path.join(CLIENT, "libraries"), "user_type": "legacy", "quickPlayPath": "",
     }
@@ -208,9 +209,10 @@ if __name__ == "__main__":
     ap.add_argument("--server", default="127.0.0.1:25565")
     ap.add_argument("--width", type=int, default=1600)
     ap.add_argument("--height", type=int, default=900)
+    ap.add_argument("--world", default=None, help="open this singleplayer world (folder name in client/saves)")
     a = ap.parse_args()
     if a.action == "download":
         download()
     else:
-        p = launch(a.name, a.server, a.width, a.height)
+        p = launch(a.name, a.server, a.width, a.height, a.world)
         print("client pid", p.pid)
