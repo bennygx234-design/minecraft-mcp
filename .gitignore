@@ -8,3 +8,4 @@ data/builds.json
 /screenshots/
 server-first.log
 *.part
+.claude/
